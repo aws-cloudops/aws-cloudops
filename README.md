@@ -15,6 +15,7 @@ www.aws-cloudops.com
   * gulp build (builds all assets to ./dist and watches for all changes in ./src)
 
 * Dependencies
+Installed via npm install
 
 * Deployment instructions
 ```gulp build dist``` builds the application in /dist
