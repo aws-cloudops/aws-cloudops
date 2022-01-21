@@ -10,7 +10,7 @@ www.aws-cloudops.com
 * The template takes the strengh of Handlebar templating scheme combined with gulp sass automated tasks.
 + To Build do the following:
   * nvm install 14.17.5 (verified using this version, others are not guaranteed)
-  * npm install gulp -g 
+  * npm install gulp-cli -g 
   * npm install
   * gulp build (builds all assets to ./dist and watches for all changes in ./src)
 
