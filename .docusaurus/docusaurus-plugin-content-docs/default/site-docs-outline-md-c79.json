@@ -1,0 +1,27 @@
+{
+  "id": "outline",
+  "title": "Course Outline",
+  "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
+  "source": "@site/docs/outline.md",
+  "sourceDirName": ".",
+  "slug": "/outline",
+  "permalink": "/docs/outline",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/outline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Philosophy",
+    "permalink": "/docs/philosophy"
+  },
+  "next": {
+    "title": "Modules",
+    "permalink": "/docs/category/modules"
+  }
+}

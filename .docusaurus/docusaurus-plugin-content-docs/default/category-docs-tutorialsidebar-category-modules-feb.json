@@ -1,0 +1,15 @@
+{
+  "title": "Modules",
+  "slug": "/category/modules",
+  "permalink": "/docs/category/modules",
+  "navigation": {
+    "previous": {
+      "title": "Course Outline",
+      "permalink": "/docs/outline"
+    },
+    "next": {
+      "title": "Linux Administration Basics",
+      "permalink": "/docs/modules/linux"
+    }
+  }
+}

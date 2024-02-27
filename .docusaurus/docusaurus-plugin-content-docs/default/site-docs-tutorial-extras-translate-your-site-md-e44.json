@@ -19,9 +19,5 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/docs/tutorial-extras/manage-docs-versions"
-  },
-  "next": {
-    "title": "my-new-subsection",
-    "permalink": "/docs/new-subsection/my-new-subsection"
   }
 }

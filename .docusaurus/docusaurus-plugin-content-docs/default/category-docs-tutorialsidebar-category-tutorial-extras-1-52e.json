@@ -1,11 +1,11 @@
 {
   "title": "Tutorial - Extras",
-  "slug": "/category/tutorial---extras",
-  "permalink": "/docs/category/tutorial---extras",
+  "slug": "/category/tutorial---extras-1",
+  "permalink": "/docs/category/tutorial---extras-1",
   "navigation": {
     "previous": {
-      "title": "Tutorial Intro",
-      "permalink": "/docs/tutorial"
+      "title": "Linux Administration Basics",
+      "permalink": "/docs/modules/linux"
     },
     "next": {
       "title": "Manage Docs Versions",

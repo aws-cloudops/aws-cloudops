@@ -50,17 +50,27 @@ export default {
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
+          "sidebarId": "mySidebar",
           "position": "left",
-          "label": "Philosophy"
+          "label": "Philosophy",
+          "to": "/docs/philosophy"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "type": "docSidebar",
+          "sidebarId": "mySidebar",
+          "position": "left",
+          "label": "Course Outline",
+          "href": "/docs/outline"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "type": "docSidebar",
+          "sidebarId": "mySidebar",
+          "position": "left",
+          "label": "Modules",
+          "href": "/docs/category/modules"
+        },
+        {
+          "href": "https://github.com/dixonaws/aws-cloudops",
           "label": "GitHub",
           "position": "right"
         }

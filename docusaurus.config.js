@@ -65,6 +65,7 @@ const config = {
         ({
             // Replace with your project's social card
             image: 'img/docusaurus-social-card.jpg',
+
             navbar: {
                 title: 'aws-cloudops',
                 logo: {
@@ -74,13 +75,30 @@ const config = {
                 items: [
                     {
                         type: 'docSidebar',
-                        sidebarId: 'tutorialSidebar',
+                        sidebarId: 'mySidebar',
                         position: 'left',
                         label: 'Philosophy',
+                        to: '/docs/philosophy'
                     },
-                    {to: '/blog', label: 'Blog', position: 'left'},
                     {
-                        href: 'https://github.com/facebook/docusaurus',
+                        type: 'docSidebar',
+                        sidebarId: 'mySidebar',
+                        position: 'left',
+                        label: 'Course Outline',
+                        href: '/docs/outline',
+
+                    },
+                    {
+                        type: 'docSidebar',
+                        sidebarId: 'mySidebar',
+                        position: 'left',
+                        label: 'Modules',
+                        href: '/docs/category/modules'
+                    },
+
+
+                    {
+                        href: 'https://github.com/dixonaws/aws-cloudops',
                         label: 'GitHub',
                         position: 'right',
                     },

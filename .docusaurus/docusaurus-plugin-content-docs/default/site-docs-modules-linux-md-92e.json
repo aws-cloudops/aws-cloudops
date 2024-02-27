@@ -1,0 +1,24 @@
+{
+  "id": "modules/linux",
+  "title": "linux",
+  "description": "",
+  "source": "@site/docs/modules/linux.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/linux",
+  "permalink": "/docs/modules/linux",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Linux Administration Basics",
+    "sidebar_position": 3
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Modules",
+    "permalink": "/docs/category/modules"
+  }
+}
