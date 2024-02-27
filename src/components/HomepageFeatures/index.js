@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Straightforward',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Silver Lining curriculum was designed from the ground up to be understood by anyone
+        wanting to skill up as a cloud operations engineer.
       </>
     ),
   },
@@ -18,18 +18,17 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We know there's a ton of content out there covering almost any topic. What we do is provide you with
+          an outline of what you need to know to land your first job as a cloud operations engineer.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by AWS Solutions Architects',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The content here was developed by Solutions Architects who deal with real customer issues every day.
       </>
     ),
   },

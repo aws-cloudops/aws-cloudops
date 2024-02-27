@@ -96,6 +96,21 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
+      },
+      {
+        "type": "category",
+        "label": "new-subsection",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "my-new-subsection",
+            "href": "/docs/new-subsection/my-new-subsection",
+            "docId": "new-subsection/my-new-subsection",
+            "unlisted": false
+          }
+        ]
       }
     ]
   },
@@ -110,6 +125,12 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "new-subsection/my-new-subsection": {
+      "id": "new-subsection/my-new-subsection",
+      "title": "my-new-subsection",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

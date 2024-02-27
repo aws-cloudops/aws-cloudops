@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "AWS CloudOps",
+  "tagline": "Start your career in cloud operations",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://www.aws-cloudops.com",
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
           "showReadingTime": true,
@@ -42,9 +42,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "aws-cloudops",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "aws cloud ops logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -52,7 +52,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Philosophy"
         },
         {
           "to": "/blog",
@@ -80,23 +80,6 @@ export default {
           ]
         },
         {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
           "title": "More",
           "items": [
             {
@@ -105,12 +88,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/dixonaws/aws-cloudops/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Silver Lining"
     },
     "prism": {
       "theme": {
