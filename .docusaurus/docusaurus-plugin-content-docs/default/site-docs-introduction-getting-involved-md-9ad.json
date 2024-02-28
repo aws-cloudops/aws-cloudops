@@ -1,0 +1,28 @@
+{
+  "id": "introduction/getting-involved",
+  "title": "Getting Involved",
+  "description": "There are a few ways to get involved with the Silver Lining program",
+  "source": "@site/docs/introduction/getting-involved.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/getting-involved",
+  "permalink": "/docs/introduction/getting-involved",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/getting-involved.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Getting Involved",
+    "sidebar_position": 4
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Philosophy",
+    "permalink": "/docs/introduction/philosophy"
+  },
+  "next": {
+    "title": "Code of Conduct",
+    "permalink": "/docs/introduction/code-of-conduct"
+  }
+}

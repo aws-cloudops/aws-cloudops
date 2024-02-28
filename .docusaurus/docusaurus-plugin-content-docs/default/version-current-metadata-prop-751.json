@@ -8,57 +8,361 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "mySidebar": [
+    "introduction": [
       {
         "type": "link",
-        "label": "Philosophy",
-        "href": "/docs/philosophy",
-        "docId": "philosophy",
+        "label": "Introduction",
+        "href": "/docs/introduction/",
+        "docId": "introduction/index",
         "unlisted": false
       },
       {
         "type": "link",
-        "label": "Course Outline",
-        "href": "/docs/outline",
-        "docId": "outline",
+        "label": "Philosophy",
+        "href": "/docs/introduction/philosophy",
+        "docId": "introduction/philosophy",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Getting Involved",
+        "href": "/docs/introduction/getting-involved",
+        "docId": "introduction/getting-involved",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Code of Conduct",
+        "href": "/docs/introduction/code-of-conduct",
+        "docId": "introduction/code-of-conduct",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "About Silver Lining",
+        "href": "/docs/introduction/about",
+        "docId": "introduction/about",
+        "unlisted": false
+      }
+    ],
+    "modules": [
+      {
+        "type": "link",
+        "label": "Modules",
+        "href": "/docs/modules/",
+        "docId": "modules/index",
         "unlisted": false
       },
       {
         "type": "category",
-        "label": "Modules",
+        "label": "Fundamentals",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Linux Administration Basics",
-            "href": "/docs/modules/linux",
-            "docId": "modules/linux",
+            "href": "/docs/modules/fundamentals/linux",
+            "docId": "modules/fundamentals/linux",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Networking in AWS",
+            "href": "/docs/modules/fundamentals/networking_in_aws",
+            "docId": "modules/fundamentals/networking_in_aws",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Storage and Data Management",
+            "href": "/docs/modules/fundamentals/storage",
+            "docId": "modules/fundamentals/storage",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Advanced Linux",
+            "href": "/docs/modules/fundamentals/advanced_linux",
+            "docId": "modules/fundamentals/advanced_linux",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Building 3-tier Applications",
+            "href": "/docs/modules/fundamentals/tier_apps",
+            "docId": "modules/fundamentals/tier_apps",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/modules"
+        "href": "/docs/modules/fundamentals/"
+      },
+      {
+        "type": "category",
+        "label": "Cloud Administration",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Security and Compliance",
+            "href": "/docs/modules/cloud/security",
+            "docId": "modules/cloud/security",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Automation, Deployment, and Provisioning",
+            "href": "/docs/modules/cloud/automation",
+            "docId": "modules/cloud/automation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Monitoring and Reporting",
+            "href": "/docs/modules/cloud/monitoring",
+            "docId": "modules/cloud/monitoring",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/modules/cloud/"
+      },
+      {
+        "type": "category",
+        "label": "Specializations",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Generative AI",
+            "href": "/docs/modules/specialization/genai",
+            "docId": "modules/specialization/genai",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Containers",
+            "href": "/docs/modules/specialization/containers",
+            "docId": "modules/specialization/containers",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Big Data and Analytics",
+            "href": "/docs/modules/specialization/big_data",
+            "docId": "modules/specialization/big_data",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/modules/specialization/"
+      },
+      {
+        "type": "category",
+        "label": "Professional Skills",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Customer Presentations",
+            "href": "/docs/modules/pro_skills/customer",
+            "docId": "modules/pro_skills/customer",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Resume and Interview Prep",
+            "href": "/docs/modules/pro_skills/resume_interview_prep",
+            "docId": "modules/pro_skills/resume_interview_prep",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/modules/pro_skills/"
+      }
+    ],
+    "getting_started": [
+      {
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/docs/getting_started/",
+        "docId": "getting_started/index",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Learning Roadmap",
+        "href": "/docs/getting_started/learning_roadmap",
+        "docId": "getting_started/learning_roadmap",
+        "unlisted": false
+      }
+    ],
+    "employers": [
+      {
+        "type": "link",
+        "label": "For Employers",
+        "href": "/docs/employers/",
+        "docId": "employers/index",
+        "unlisted": false
       }
     ]
   },
   "docs": {
-    "modules/linux": {
-      "id": "modules/linux",
-      "title": "linux",
-      "description": "",
-      "sidebar": "mySidebar"
+    "employers/index": {
+      "id": "employers/index",
+      "title": "index",
+      "description": "Info for employers",
+      "sidebar": "employers"
     },
-    "outline": {
-      "id": "outline",
-      "title": "Course Outline",
-      "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
-      "sidebar": "mySidebar"
+    "getting_started/index": {
+      "id": "getting_started/index",
+      "title": "Getting Started",
+      "description": "Preparation",
+      "sidebar": "getting_started"
     },
-    "philosophy": {
-      "id": "philosophy",
+    "getting_started/learning_roadmap": {
+      "id": "getting_started/learning_roadmap",
+      "title": "Learning Roadmap",
+      "description": "Modules At a Glance",
+      "sidebar": "getting_started"
+    },
+    "introduction/about": {
+      "id": "introduction/about",
+      "title": "About Silver Lining",
+      "description": "Preparation",
+      "sidebar": "introduction"
+    },
+    "introduction/code-of-conduct": {
+      "id": "introduction/code-of-conduct",
+      "title": "Code of Conduct",
+      "description": "Being Professional",
+      "sidebar": "introduction"
+    },
+    "introduction/getting-involved": {
+      "id": "introduction/getting-involved",
+      "title": "Getting Involved",
+      "description": "There are a few ways to get involved with the Silver Lining program",
+      "sidebar": "introduction"
+    },
+    "introduction/index": {
+      "id": "introduction/index",
+      "title": "Introduction",
+      "description": "Introductory text",
+      "sidebar": "introduction"
+    },
+    "introduction/philosophy": {
+      "id": "introduction/philosophy",
       "title": "Philosophy",
       "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
-      "sidebar": "mySidebar"
+      "sidebar": "introduction"
+    },
+    "modules/cloud/automation": {
+      "id": "modules/cloud/automation",
+      "title": "automation",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/cloud/index": {
+      "id": "modules/cloud/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/cloud/monitoring": {
+      "id": "modules/cloud/monitoring",
+      "title": "monitoring",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/cloud/security": {
+      "id": "modules/cloud/security",
+      "title": "security",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/fundamentals/advanced_linux": {
+      "id": "modules/fundamentals/advanced_linux",
+      "title": "advanced_linux",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/fundamentals/index": {
+      "id": "modules/fundamentals/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/fundamentals/linux": {
+      "id": "modules/fundamentals/linux",
+      "title": "linux",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/fundamentals/networking_in_aws": {
+      "id": "modules/fundamentals/networking_in_aws",
+      "title": "networking_in_aws",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/fundamentals/storage": {
+      "id": "modules/fundamentals/storage",
+      "title": "storage",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/fundamentals/tier_apps": {
+      "id": "modules/fundamentals/tier_apps",
+      "title": "tier_apps",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/index": {
+      "id": "modules/index",
+      "title": "Modules",
+      "description": "Modules intro text",
+      "sidebar": "modules"
+    },
+    "modules/pro_skills/customer": {
+      "id": "modules/pro_skills/customer",
+      "title": "customer",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/pro_skills/index": {
+      "id": "modules/pro_skills/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/pro_skills/resume_interview_prep": {
+      "id": "modules/pro_skills/resume_interview_prep",
+      "title": "resume_interview_prep",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/specialization/big_data": {
+      "id": "modules/specialization/big_data",
+      "title": "big_data",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/specialization/containers": {
+      "id": "modules/specialization/containers",
+      "title": "containers",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/specialization/genai": {
+      "id": "modules/specialization/genai",
+      "title": "genai",
+      "description": "",
+      "sidebar": "modules"
+    },
+    "modules/specialization/index": {
+      "id": "modules/specialization/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "modules"
     }
   }
 }

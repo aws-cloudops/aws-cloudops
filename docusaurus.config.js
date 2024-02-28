@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'AWS CloudOps',
-    tagline: 'Start your career in cloud operations',
+    title: 'AWS CloudOps and Silver Lining',
+    tagline: 'Start your career in cloud operations and engineering',
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
@@ -67,6 +67,7 @@ const config = {
             image: 'img/docusaurus-social-card.jpg',
 
             navbar: {
+                hideOnScroll: true,
                 title: 'aws-cloudops',
                 logo: {
                     alt: 'aws cloud ops logo',
@@ -74,35 +75,49 @@ const config = {
                 },
                 items: [
                     {
-                        type: 'docSidebar',
-                        sidebarId: 'mySidebar',
+                        type: 'doc',
                         position: 'left',
-                        label: 'Philosophy',
-                        to: '/docs/philosophy'
+                        label: 'Introduction',
+                        docId: 'introduction/index',
                     },
                     {
                         type: 'docSidebar',
-                        sidebarId: 'mySidebar',
+                        sidebarId: 'getting_started',
                         position: 'left',
-                        label: 'Course Outline',
-                        href: '/docs/outline',
+                        label: 'Getting Started',
+                        docId: 'getting_started/index',
 
                     },
                     {
                         type: 'docSidebar',
-                        sidebarId: 'mySidebar',
+                        sidebarId: 'modules',
                         position: 'left',
                         label: 'Modules',
-                        href: '/docs/category/modules'
+                        docId: 'modules/index',
                     },
-
-
+                    {
+                        type: 'docSidebar',
+                        sidebarId: 'employers',
+                        position: 'left',
+                        label: 'For Employers',
+                        docId: 'employers/index',
+                    },
+                    {
+                        href: 'https://github.com/dixonaws/aws-cloudops',
+                        label: 'Register Now!',
+                        position: 'right',
+                    },
                     {
                         href: 'https://github.com/dixonaws/aws-cloudops',
                         label: 'GitHub',
                         position: 'right',
                     },
                 ],
+            },
+            docs: {
+                sidebar: {
+                    autoCollapseCategories: false,
+                },
             },
             footer: {
                 style: 'dark',
@@ -112,8 +127,12 @@ const config = {
                         title: 'More',
                         items: [
                             {
-                                label: 'Blog',
-                                to: '/blog',
+                                label: 'Philosophy',
+                                to: '/docs/introduction/philosophy',
+                            },
+                            {
+                                label: 'About Us',
+                                to: '/docs/introduction/about',
                             },
                             {
                                 label: 'GitHub',

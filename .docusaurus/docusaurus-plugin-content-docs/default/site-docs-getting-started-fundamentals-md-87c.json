@@ -1,0 +1,29 @@
+{
+  "id": "getting_started/fundamentals",
+  "title": "Fundamentals",
+  "description": "Fundamentals - Linux, networking, storage",
+  "source": "@site/docs/getting_started/fundamentals.md",
+  "sourceDirName": "getting_started",
+  "slug": "/getting_started/fundamentals",
+  "permalink": "/docs/getting_started/fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/getting_started/fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Fundamentals",
+    "sidebar_position": 2,
+    "weight": 5
+  },
+  "sidebar": "getting_started",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/getting_started/"
+  },
+  "next": {
+    "title": "Specializations",
+    "permalink": "/docs/getting_started/specialize"
+  }
+}

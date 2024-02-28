@@ -1,0 +1,28 @@
+{
+  "id": "modules/cloud/automation",
+  "title": "automation",
+  "description": "",
+  "source": "@site/docs/modules/cloud/automation.md",
+  "sourceDirName": "modules/cloud",
+  "slug": "/modules/cloud/automation",
+  "permalink": "/docs/modules/cloud/automation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/cloud/automation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Automation, Deployment, and Provisioning",
+    "sidebar_position": 8
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Security and Compliance",
+    "permalink": "/docs/modules/cloud/security"
+  },
+  "next": {
+    "title": "Monitoring and Reporting",
+    "permalink": "/docs/modules/cloud/monitoring"
+  }
+}

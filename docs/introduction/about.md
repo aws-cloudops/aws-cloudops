@@ -1,6 +1,23 @@
 ---
-sidebar_position: 2
+title: About Silver Lining
+sidebar_position: 6
+
 ---
+
+## Preparation
+What is your current skill level?
+
+## Learning
+Follow our outline, filling your knowledge gaps where needed
+Repeat sections until you are comfortable doing the homework with limited assistance
+
+## Certification
+Add certifications
+
+## Graduation
+Create an initial portfolio of what you have done using GitHub and YouTube
+
+## Job Placement
 
 # Course Outline
 This is not a coding bootcamp. We realize that you can search the internet and skill up

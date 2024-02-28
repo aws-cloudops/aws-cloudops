@@ -1,0 +1,28 @@
+{
+  "id": "course_outline/cloud_administration",
+  "title": "Cloud Administration",
+  "description": "Automation, monitoring, security",
+  "source": "@site/docs/course_outline/cloud_administration.md",
+  "sourceDirName": "course_outline",
+  "slug": "/course_outline/cloud_administration",
+  "permalink": "/docs/course_outline/cloud_administration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/course_outline/cloud_administration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Cloud Administration",
+    "sidebar_position": 3
+  },
+  "sidebar": "course_outline",
+  "previous": {
+    "title": "Fundamentals",
+    "permalink": "/docs/course_outline/fundamentals"
+  },
+  "next": {
+    "title": "Specialize",
+    "permalink": "/docs/course_outline/specialize"
+  }
+}

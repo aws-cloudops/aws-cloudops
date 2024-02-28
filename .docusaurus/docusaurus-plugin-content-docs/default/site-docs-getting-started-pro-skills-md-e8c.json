@@ -1,0 +1,24 @@
+{
+  "id": "getting_started/pro_skills",
+  "title": "Professional Skills",
+  "description": "Your portfolio, resume, interviewing skills",
+  "source": "@site/docs/getting_started/pro_skills.md",
+  "sourceDirName": "getting_started",
+  "slug": "/getting_started/pro_skills",
+  "permalink": "/docs/getting_started/pro_skills",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/getting_started/pro_skills.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Professional Skills",
+    "sidebar_position": 5
+  },
+  "sidebar": "getting_started",
+  "previous": {
+    "title": "Specializations",
+    "permalink": "/docs/getting_started/specialize"
+  }
+}

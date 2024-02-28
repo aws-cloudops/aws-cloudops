@@ -20,67 +20,190 @@
           "contentPathLocalized": "/Users/dixonaws/Dropbox/ReplPersonal/Developer/sites/aws-cloudops/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "id": "modules/linux",
-              "title": "linux",
-              "description": "",
-              "source": "@site/docs/modules/linux.md",
-              "sourceDirName": "modules",
-              "slug": "/modules/linux",
-              "permalink": "/docs/modules/linux",
+              "id": "employers/index",
+              "title": "index",
+              "description": "Info for employers",
+              "source": "@site/docs/employers/index.md",
+              "sourceDirName": "employers",
+              "slug": "/employers/",
+              "permalink": "/docs/employers/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/linux.md",
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/employers/index.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_label": "Linux Administration Basics",
+                "sidebar_label": "For Employers",
                 "sidebar_position": 3
               },
-              "sidebar": "mySidebar",
-              "previous": {
-                "title": "Modules",
-                "permalink": "/docs/category/modules"
+              "sidebar": "employers"
+            },
+            {
+              "id": "getting_started/index",
+              "title": "Getting Started",
+              "description": "Preparation",
+              "source": "@site/docs/getting_started/index.md",
+              "sourceDirName": "getting_started",
+              "slug": "/getting_started/",
+              "permalink": "/docs/getting_started/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/getting_started/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Getting Started",
+                "sidebar_position": 1,
+                "weight": 5
+              },
+              "sidebar": "getting_started",
+              "next": {
+                "title": "Learning Roadmap",
+                "permalink": "/docs/getting_started/learning_roadmap"
               }
             },
             {
-              "id": "outline",
-              "title": "Course Outline",
-              "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
-              "source": "@site/docs/outline.md",
-              "sourceDirName": ".",
-              "slug": "/outline",
-              "permalink": "/docs/outline",
+              "id": "getting_started/learning_roadmap",
+              "title": "Learning Roadmap",
+              "description": "Modules At a Glance",
+              "source": "@site/docs/getting_started/learning_roadmap.md",
+              "sourceDirName": "getting_started",
+              "slug": "/getting_started/learning_roadmap",
+              "permalink": "/docs/getting_started/learning_roadmap",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/outline.md",
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/getting_started/learning_roadmap.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
+                "title": "Learning Roadmap",
                 "sidebar_position": 2
               },
-              "sidebar": "mySidebar",
+              "sidebar": "getting_started",
               "previous": {
-                "title": "Philosophy",
-                "permalink": "/docs/philosophy"
-              },
-              "next": {
-                "title": "Modules",
-                "permalink": "/docs/category/modules"
+                "title": "Getting Started",
+                "permalink": "/docs/getting_started/"
               }
             },
             {
-              "id": "philosophy",
-              "title": "Philosophy",
-              "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
-              "source": "@site/docs/philosophy.md",
-              "sourceDirName": ".",
-              "slug": "/philosophy",
-              "permalink": "/docs/philosophy",
+              "id": "introduction/about",
+              "title": "About Silver Lining",
+              "description": "Preparation",
+              "source": "@site/docs/introduction/about.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/about",
+              "permalink": "/docs/introduction/about",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/philosophy.md",
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/about.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "About Silver Lining",
+                "sidebar_position": 6
+              },
+              "sidebar": "introduction",
+              "previous": {
+                "title": "Code of Conduct",
+                "permalink": "/docs/introduction/code-of-conduct"
+              }
+            },
+            {
+              "id": "introduction/code-of-conduct",
+              "title": "Code of Conduct",
+              "description": "Being Professional",
+              "source": "@site/docs/introduction/code-of-conduct.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/code-of-conduct",
+              "permalink": "/docs/introduction/code-of-conduct",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/code-of-conduct.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Code of Conduct",
+                "sidebar_position": 5
+              },
+              "sidebar": "introduction",
+              "previous": {
+                "title": "Getting Involved",
+                "permalink": "/docs/introduction/getting-involved"
+              },
+              "next": {
+                "title": "About Silver Lining",
+                "permalink": "/docs/introduction/about"
+              }
+            },
+            {
+              "id": "introduction/getting-involved",
+              "title": "Getting Involved",
+              "description": "There are a few ways to get involved with the Silver Lining program",
+              "source": "@site/docs/introduction/getting-involved.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/getting-involved",
+              "permalink": "/docs/introduction/getting-involved",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/getting-involved.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Getting Involved",
+                "sidebar_position": 4
+              },
+              "sidebar": "introduction",
+              "previous": {
+                "title": "Philosophy",
+                "permalink": "/docs/introduction/philosophy"
+              },
+              "next": {
+                "title": "Code of Conduct",
+                "permalink": "/docs/introduction/code-of-conduct"
+              }
+            },
+            {
+              "id": "introduction/index",
+              "title": "Introduction",
+              "description": "Introductory text",
+              "source": "@site/docs/introduction/index.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/",
+              "permalink": "/docs/introduction/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "sidebar_position": 1,
+                "weight": 5
+              },
+              "sidebar": "introduction",
+              "next": {
+                "title": "Philosophy",
+                "permalink": "/docs/introduction/philosophy"
+              }
+            },
+            {
+              "id": "introduction/philosophy",
+              "title": "Philosophy",
+              "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
+              "source": "@site/docs/introduction/philosophy.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/philosophy",
+              "permalink": "/docs/introduction/philosophy",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/philosophy.md",
               "tags": [
                 {
                   "label": "about",
@@ -102,41 +225,672 @@
                   "philosophy"
                 ]
               },
-              "sidebar": "mySidebar",
+              "sidebar": "introduction",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/introduction/"
+              },
               "next": {
-                "title": "Course Outline",
-                "permalink": "/docs/outline"
+                "title": "Getting Involved",
+                "permalink": "/docs/introduction/getting-involved"
+              }
+            },
+            {
+              "id": "modules/cloud/automation",
+              "title": "automation",
+              "description": "",
+              "source": "@site/docs/modules/cloud/automation.md",
+              "sourceDirName": "modules/cloud",
+              "slug": "/modules/cloud/automation",
+              "permalink": "/docs/modules/cloud/automation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/cloud/automation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "Automation, Deployment, and Provisioning",
+                "sidebar_position": 8
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Security and Compliance",
+                "permalink": "/docs/modules/cloud/security"
+              },
+              "next": {
+                "title": "Monitoring and Reporting",
+                "permalink": "/docs/modules/cloud/monitoring"
+              }
+            },
+            {
+              "id": "modules/cloud/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/modules/cloud/index.md",
+              "sourceDirName": "modules/cloud",
+              "slug": "/modules/cloud/",
+              "permalink": "/docs/modules/cloud/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/cloud/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Cloud Administration",
+                "sidebar_position": 3
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Building 3-tier Applications",
+                "permalink": "/docs/modules/fundamentals/tier_apps"
+              },
+              "next": {
+                "title": "Security and Compliance",
+                "permalink": "/docs/modules/cloud/security"
+              }
+            },
+            {
+              "id": "modules/cloud/monitoring",
+              "title": "monitoring",
+              "description": "",
+              "source": "@site/docs/modules/cloud/monitoring.md",
+              "sourceDirName": "modules/cloud",
+              "slug": "/modules/cloud/monitoring",
+              "permalink": "/docs/modules/cloud/monitoring",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/cloud/monitoring.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_label": "Monitoring and Reporting",
+                "sidebar_position": 9
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Automation, Deployment, and Provisioning",
+                "permalink": "/docs/modules/cloud/automation"
+              },
+              "next": {
+                "title": "Specializations",
+                "permalink": "/docs/modules/specialization/"
+              }
+            },
+            {
+              "id": "modules/cloud/security",
+              "title": "security",
+              "description": "",
+              "source": "@site/docs/modules/cloud/security.md",
+              "sourceDirName": "modules/cloud",
+              "slug": "/modules/cloud/security",
+              "permalink": "/docs/modules/cloud/security",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/cloud/security.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "Security and Compliance",
+                "sidebar_position": 7
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Cloud Administration",
+                "permalink": "/docs/modules/cloud/"
+              },
+              "next": {
+                "title": "Automation, Deployment, and Provisioning",
+                "permalink": "/docs/modules/cloud/automation"
+              }
+            },
+            {
+              "id": "modules/fundamentals/advanced_linux",
+              "title": "advanced_linux",
+              "description": "",
+              "source": "@site/docs/modules/fundamentals/advanced_linux.md",
+              "sourceDirName": "modules/fundamentals",
+              "slug": "/modules/fundamentals/advanced_linux",
+              "permalink": "/docs/modules/fundamentals/advanced_linux",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/advanced_linux.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Advanced Linux",
+                "sidebar_position": 5
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Storage and Data Management",
+                "permalink": "/docs/modules/fundamentals/storage"
+              },
+              "next": {
+                "title": "Building 3-tier Applications",
+                "permalink": "/docs/modules/fundamentals/tier_apps"
+              }
+            },
+            {
+              "id": "modules/fundamentals/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/modules/fundamentals/index.md",
+              "sourceDirName": "modules/fundamentals",
+              "slug": "/modules/fundamentals/",
+              "permalink": "/docs/modules/fundamentals/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Fundamentals",
+                "sidebar_position": 2
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Modules",
+                "permalink": "/docs/modules/"
+              },
+              "next": {
+                "title": "Linux Administration Basics",
+                "permalink": "/docs/modules/fundamentals/linux"
+              }
+            },
+            {
+              "id": "modules/fundamentals/linux",
+              "title": "linux",
+              "description": "",
+              "source": "@site/docs/modules/fundamentals/linux.md",
+              "sourceDirName": "modules/fundamentals",
+              "slug": "/modules/fundamentals/linux",
+              "permalink": "/docs/modules/fundamentals/linux",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/linux.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Linux Administration Basics",
+                "sidebar_position": 3
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Fundamentals",
+                "permalink": "/docs/modules/fundamentals/"
+              },
+              "next": {
+                "title": "Networking in AWS",
+                "permalink": "/docs/modules/fundamentals/networking_in_aws"
+              }
+            },
+            {
+              "id": "modules/fundamentals/networking_in_aws",
+              "title": "networking_in_aws",
+              "description": "",
+              "source": "@site/docs/modules/fundamentals/networking_in_aws.md",
+              "sourceDirName": "modules/fundamentals",
+              "slug": "/modules/fundamentals/networking_in_aws",
+              "permalink": "/docs/modules/fundamentals/networking_in_aws",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/networking_in_aws.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Networking in AWS",
+                "sidebar_position": 4
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Linux Administration Basics",
+                "permalink": "/docs/modules/fundamentals/linux"
+              },
+              "next": {
+                "title": "Storage and Data Management",
+                "permalink": "/docs/modules/fundamentals/storage"
+              }
+            },
+            {
+              "id": "modules/fundamentals/storage",
+              "title": "storage",
+              "description": "",
+              "source": "@site/docs/modules/fundamentals/storage.md",
+              "sourceDirName": "modules/fundamentals",
+              "slug": "/modules/fundamentals/storage",
+              "permalink": "/docs/modules/fundamentals/storage",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/storage.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Storage and Data Management",
+                "sidebar_position": 4
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Networking in AWS",
+                "permalink": "/docs/modules/fundamentals/networking_in_aws"
+              },
+              "next": {
+                "title": "Advanced Linux",
+                "permalink": "/docs/modules/fundamentals/advanced_linux"
+              }
+            },
+            {
+              "id": "modules/fundamentals/tier_apps",
+              "title": "tier_apps",
+              "description": "",
+              "source": "@site/docs/modules/fundamentals/3_tier_apps.md",
+              "sourceDirName": "modules/fundamentals",
+              "slug": "/modules/fundamentals/tier_apps",
+              "permalink": "/docs/modules/fundamentals/tier_apps",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/3_tier_apps.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "Building 3-tier Applications",
+                "sidebar_position": 6
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Advanced Linux",
+                "permalink": "/docs/modules/fundamentals/advanced_linux"
+              },
+              "next": {
+                "title": "Cloud Administration",
+                "permalink": "/docs/modules/cloud/"
+              }
+            },
+            {
+              "id": "modules/index",
+              "title": "Modules",
+              "description": "Modules intro text",
+              "source": "@site/docs/modules/index.md",
+              "sourceDirName": "modules",
+              "slug": "/modules/",
+              "permalink": "/docs/modules/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Modules",
+                "sidebar_position": 1,
+                "weight": 5
+              },
+              "sidebar": "modules",
+              "next": {
+                "title": "Fundamentals",
+                "permalink": "/docs/modules/fundamentals/"
+              }
+            },
+            {
+              "id": "modules/pro_skills/customer",
+              "title": "customer",
+              "description": "",
+              "source": "@site/docs/modules/pro_skills/customer.md",
+              "sourceDirName": "modules/pro_skills",
+              "slug": "/modules/pro_skills/customer",
+              "permalink": "/docs/modules/pro_skills/customer",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/pro_skills/customer.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Customer Presentations",
+                "sidebar_position": 3
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Professional Skills",
+                "permalink": "/docs/modules/pro_skills/"
+              },
+              "next": {
+                "title": "Resume and Interview Prep",
+                "permalink": "/docs/modules/pro_skills/resume_interview_prep"
+              }
+            },
+            {
+              "id": "modules/pro_skills/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/modules/pro_skills/index.md",
+              "sourceDirName": "modules/pro_skills",
+              "slug": "/modules/pro_skills/",
+              "permalink": "/docs/modules/pro_skills/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/pro_skills/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Professional Skills",
+                "sidebar_position": 5
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Big Data and Analytics",
+                "permalink": "/docs/modules/specialization/big_data"
+              },
+              "next": {
+                "title": "Customer Presentations",
+                "permalink": "/docs/modules/pro_skills/customer"
+              }
+            },
+            {
+              "id": "modules/pro_skills/resume_interview_prep",
+              "title": "resume_interview_prep",
+              "description": "",
+              "source": "@site/docs/modules/pro_skills/resume_interview_prep.md",
+              "sourceDirName": "modules/pro_skills",
+              "slug": "/modules/pro_skills/resume_interview_prep",
+              "permalink": "/docs/modules/pro_skills/resume_interview_prep",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/pro_skills/resume_interview_prep.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_label": "Resume and Interview Prep",
+                "sidebar_position": 11
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Customer Presentations",
+                "permalink": "/docs/modules/pro_skills/customer"
+              }
+            },
+            {
+              "id": "modules/specialization/big_data",
+              "title": "big_data",
+              "description": "",
+              "source": "@site/docs/modules/specialization/big_data.md",
+              "sourceDirName": "modules/specialization",
+              "slug": "/modules/specialization/big_data",
+              "permalink": "/docs/modules/specialization/big_data",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/specialization/big_data.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_label": "Big Data and Analytics",
+                "sidebar_position": 12
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Containers",
+                "permalink": "/docs/modules/specialization/containers"
+              },
+              "next": {
+                "title": "Professional Skills",
+                "permalink": "/docs/modules/pro_skills/"
+              }
+            },
+            {
+              "id": "modules/specialization/containers",
+              "title": "containers",
+              "description": "",
+              "source": "@site/docs/modules/specialization/containers.md",
+              "sourceDirName": "modules/specialization",
+              "slug": "/modules/specialization/containers",
+              "permalink": "/docs/modules/specialization/containers",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/specialization/containers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_label": "Containers",
+                "sidebar_position": 10
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Generative AI",
+                "permalink": "/docs/modules/specialization/genai"
+              },
+              "next": {
+                "title": "Big Data and Analytics",
+                "permalink": "/docs/modules/specialization/big_data"
+              }
+            },
+            {
+              "id": "modules/specialization/genai",
+              "title": "genai",
+              "description": "",
+              "source": "@site/docs/modules/specialization/genai.md",
+              "sourceDirName": "modules/specialization",
+              "slug": "/modules/specialization/genai",
+              "permalink": "/docs/modules/specialization/genai",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/specialization/genai.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Generative AI",
+                "sidebar_position": 3
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Specializations",
+                "permalink": "/docs/modules/specialization/"
+              },
+              "next": {
+                "title": "Containers",
+                "permalink": "/docs/modules/specialization/containers"
+              }
+            },
+            {
+              "id": "modules/specialization/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/modules/specialization/index.md",
+              "sourceDirName": "modules/specialization",
+              "slug": "/modules/specialization/",
+              "permalink": "/docs/modules/specialization/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/specialization/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Specializations",
+                "sidebar_position": 4
+              },
+              "sidebar": "modules",
+              "previous": {
+                "title": "Monitoring and Reporting",
+                "permalink": "/docs/modules/cloud/monitoring"
+              },
+              "next": {
+                "title": "Generative AI",
+                "permalink": "/docs/modules/specialization/genai"
               }
             }
           ],
           "drafts": [],
           "sidebars": {
-            "mySidebar": [
+            "introduction": [
               {
                 "type": "doc",
-                "id": "philosophy"
+                "id": "introduction/index"
               },
               {
                 "type": "doc",
-                "id": "outline"
+                "id": "introduction/philosophy"
+              },
+              {
+                "type": "doc",
+                "id": "introduction/getting-involved"
+              },
+              {
+                "type": "doc",
+                "id": "introduction/code-of-conduct"
+              },
+              {
+                "type": "doc",
+                "id": "introduction/about"
+              }
+            ],
+            "modules": [
+              {
+                "type": "doc",
+                "id": "modules/index"
               },
               {
                 "type": "category",
-                "label": "Modules",
+                "label": "Fundamentals",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "modules/linux",
+                    "id": "modules/fundamentals/linux",
                     "label": "Linux Administration Basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/fundamentals/networking_in_aws",
+                    "label": "Networking in AWS"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/fundamentals/storage",
+                    "label": "Storage and Data Management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/fundamentals/advanced_linux",
+                    "label": "Advanced Linux"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/fundamentals/tier_apps",
+                    "label": "Building 3-tier Applications"
                   }
                 ],
                 "link": {
-                  "type": "generated-index",
-                  "slug": "/category/modules",
-                  "permalink": "/docs/category/modules"
+                  "type": "doc",
+                  "id": "modules/fundamentals/index"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Cloud Administration",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/cloud/security",
+                    "label": "Security and Compliance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/cloud/automation",
+                    "label": "Automation, Deployment, and Provisioning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/cloud/monitoring",
+                    "label": "Monitoring and Reporting"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "modules/cloud/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Specializations",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/specialization/genai",
+                    "label": "Generative AI"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/specialization/containers",
+                    "label": "Containers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/specialization/big_data",
+                    "label": "Big Data and Analytics"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "modules/specialization/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Professional Skills",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/pro_skills/customer",
+                    "label": "Customer Presentations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/pro_skills/resume_interview_prep",
+                    "label": "Resume and Interview Prep"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "modules/pro_skills/index"
+                }
+              }
+            ],
+            "getting_started": [
+              {
+                "type": "doc",
+                "id": "getting_started/index"
+              },
+              {
+                "type": "doc",
+                "id": "getting_started/learning_roadmap"
+              }
+            ],
+            "employers": [
+              {
+                "type": "doc",
+                "id": "employers/index",
+                "label": "For Employers"
               }
             ]
           }

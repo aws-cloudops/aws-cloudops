@@ -1,0 +1,28 @@
+{
+  "id": "modules/specialization/containers",
+  "title": "containers",
+  "description": "",
+  "source": "@site/docs/modules/specialization/containers.md",
+  "sourceDirName": "modules/specialization",
+  "slug": "/modules/specialization/containers",
+  "permalink": "/docs/modules/specialization/containers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/specialization/containers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Containers",
+    "sidebar_position": 10
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Generative AI",
+    "permalink": "/docs/modules/specialization/genai"
+  },
+  "next": {
+    "title": "Big Data and Analytics",
+    "permalink": "/docs/modules/specialization/big_data"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "modules/networking_in_aws",
+  "title": "networking_in_aws",
+  "description": "",
+  "source": "@site/docs/modules/networking_in_aws.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/networking_in_aws",
+  "permalink": "/docs/modules/networking_in_aws",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/networking_in_aws.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Networking in AWS",
+    "sidebar_position": 4
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Modules",
+    "permalink": "/docs/modules/"
+  },
+  "next": {
+    "title": "Storage and Data Management",
+    "permalink": "/docs/modules/storage"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "modules/tier_apps",
+  "title": "tier_apps",
+  "description": "",
+  "source": "@site/docs/modules/3_tier_apps.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/tier_apps",
+  "permalink": "/docs/modules/tier_apps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/3_tier_apps.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Building 3-tier Applications",
+    "sidebar_position": 6
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Modules",
+    "permalink": "/docs/modules/"
+  },
+  "next": {
+    "title": "Security and Compliance",
+    "permalink": "/docs/modules/security"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "modules/proskills/customer",
+  "title": "customer",
+  "description": "",
+  "source": "@site/docs/modules/proskills/customer.md",
+  "sourceDirName": "modules/proskills",
+  "slug": "/modules/proskills/customer",
+  "permalink": "/docs/modules/proskills/customer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/proskills/customer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "modules",
+  "previous": {
+    "title": "Resume and Interview Prep",
+    "permalink": "/docs/modules/proskills/resume_interview_prep"
+  },
+  "next": {
+    "title": "Containers",
+    "permalink": "/docs/modules/specialization/containers"
+  }
+}

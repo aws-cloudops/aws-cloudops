@@ -1,0 +1,28 @@
+{
+  "id": "modules/containers",
+  "title": "containers",
+  "description": "",
+  "source": "@site/docs/modules/containers.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/containers",
+  "permalink": "/docs/modules/containers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/containers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Containers",
+    "sidebar_position": 10
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Automation, Deployment, and Provisioning",
+    "permalink": "/docs/modules/automation"
+  },
+  "next": {
+    "title": "Resume and Interview Prep",
+    "permalink": "/docs/modules/resume_interview_prep"
+  }
+}

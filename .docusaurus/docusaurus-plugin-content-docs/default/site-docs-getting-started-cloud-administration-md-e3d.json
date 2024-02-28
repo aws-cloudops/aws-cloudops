@@ -1,0 +1,28 @@
+{
+  "id": "getting_started/cloud_administration",
+  "title": "Cloud Administration",
+  "description": "Automation, monitoring, security",
+  "source": "@site/docs/getting_started/cloud_administration.md",
+  "sourceDirName": "getting_started",
+  "slug": "/getting_started/cloud_administration",
+  "permalink": "/docs/getting_started/cloud_administration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/getting_started/cloud_administration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Cloud Administration",
+    "sidebar_position": 3
+  },
+  "sidebar": "getting_started",
+  "previous": {
+    "title": "Fundamentals",
+    "permalink": "/docs/getting_started/fundamentals"
+  },
+  "next": {
+    "title": "Specializations",
+    "permalink": "/docs/getting_started/specialize"
+  }
+}

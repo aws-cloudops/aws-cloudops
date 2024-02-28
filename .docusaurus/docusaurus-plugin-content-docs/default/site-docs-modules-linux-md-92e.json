@@ -16,9 +16,13 @@
     "sidebar_label": "Linux Administration Basics",
     "sidebar_position": 3
   },
-  "sidebar": "mySidebar",
+  "sidebar": "modules",
   "previous": {
     "title": "Modules",
-    "permalink": "/docs/category/modules"
+    "permalink": "/docs/modules/"
+  },
+  "next": {
+    "title": "Networking in AWS",
+    "permalink": "/docs/modules/networking_in_aws"
   }
 }

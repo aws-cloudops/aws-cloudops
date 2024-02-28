@@ -31,6 +31,10 @@
     ]
   },
   "sidebar": "mySidebar",
+  "previous": {
+    "title": "Code of Conduct",
+    "permalink": "/docs/introduction/code-of-conduct"
+  },
   "next": {
     "title": "Course Outline",
     "permalink": "/docs/outline"

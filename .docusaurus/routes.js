@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', 'baf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', 'b54'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '8a4'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '32e'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '0b5'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '65c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', 'c07'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '5fa'),
     exact: true
@@ -79,11 +114,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '2e0'),
+    component: ComponentCreator('/docs', '9b5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '44f'),
+        component: ComponentCreator('/docs', 'b1a'),
         routes: [
           {
             path: '/docs/tags',
@@ -102,31 +137,163 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f22'),
+            component: ComponentCreator('/docs', '4d2'),
             routes: [
               {
-                path: '/docs/category/modules',
-                component: ComponentCreator('/docs/category/modules', 'dd3'),
+                path: '/docs/employers/',
+                component: ComponentCreator('/docs/employers/', 'e0f'),
                 exact: true,
-                sidebar: "mySidebar"
+                sidebar: "employers"
               },
               {
-                path: '/docs/modules/linux',
-                component: ComponentCreator('/docs/modules/linux', '0fd'),
+                path: '/docs/getting_started/',
+                component: ComponentCreator('/docs/getting_started/', '22c'),
                 exact: true,
-                sidebar: "mySidebar"
+                sidebar: "getting_started"
               },
               {
-                path: '/docs/outline',
-                component: ComponentCreator('/docs/outline', 'ad1'),
+                path: '/docs/getting_started/learning_roadmap',
+                component: ComponentCreator('/docs/getting_started/learning_roadmap', 'ade'),
                 exact: true,
-                sidebar: "mySidebar"
+                sidebar: "getting_started"
               },
               {
-                path: '/docs/philosophy',
-                component: ComponentCreator('/docs/philosophy', '553'),
+                path: '/docs/introduction/',
+                component: ComponentCreator('/docs/introduction/', 'b77'),
                 exact: true,
-                sidebar: "mySidebar"
+                sidebar: "introduction"
+              },
+              {
+                path: '/docs/introduction/about',
+                component: ComponentCreator('/docs/introduction/about', '2c9'),
+                exact: true,
+                sidebar: "introduction"
+              },
+              {
+                path: '/docs/introduction/code-of-conduct',
+                component: ComponentCreator('/docs/introduction/code-of-conduct', '224'),
+                exact: true,
+                sidebar: "introduction"
+              },
+              {
+                path: '/docs/introduction/getting-involved',
+                component: ComponentCreator('/docs/introduction/getting-involved', 'fac'),
+                exact: true,
+                sidebar: "introduction"
+              },
+              {
+                path: '/docs/introduction/philosophy',
+                component: ComponentCreator('/docs/introduction/philosophy', '1fa'),
+                exact: true,
+                sidebar: "introduction"
+              },
+              {
+                path: '/docs/modules/',
+                component: ComponentCreator('/docs/modules/', 'fe2'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/cloud/',
+                component: ComponentCreator('/docs/modules/cloud/', 'e8d'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/cloud/automation',
+                component: ComponentCreator('/docs/modules/cloud/automation', 'aea'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/cloud/monitoring',
+                component: ComponentCreator('/docs/modules/cloud/monitoring', 'bed'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/cloud/security',
+                component: ComponentCreator('/docs/modules/cloud/security', '9d1'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/fundamentals/',
+                component: ComponentCreator('/docs/modules/fundamentals/', 'f75'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/fundamentals/advanced_linux',
+                component: ComponentCreator('/docs/modules/fundamentals/advanced_linux', 'ada'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/fundamentals/linux',
+                component: ComponentCreator('/docs/modules/fundamentals/linux', '76a'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/fundamentals/networking_in_aws',
+                component: ComponentCreator('/docs/modules/fundamentals/networking_in_aws', 'b8a'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/fundamentals/storage',
+                component: ComponentCreator('/docs/modules/fundamentals/storage', 'a4f'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/fundamentals/tier_apps',
+                component: ComponentCreator('/docs/modules/fundamentals/tier_apps', '302'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/pro_skills/',
+                component: ComponentCreator('/docs/modules/pro_skills/', 'cbe'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/pro_skills/customer',
+                component: ComponentCreator('/docs/modules/pro_skills/customer', '828'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/pro_skills/resume_interview_prep',
+                component: ComponentCreator('/docs/modules/pro_skills/resume_interview_prep', 'bd1'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/specialization/',
+                component: ComponentCreator('/docs/modules/specialization/', '7d7'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/specialization/big_data',
+                component: ComponentCreator('/docs/modules/specialization/big_data', '4cf'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/specialization/containers',
+                component: ComponentCreator('/docs/modules/specialization/containers', '36f'),
+                exact: true,
+                sidebar: "modules"
+              },
+              {
+                path: '/docs/modules/specialization/genai',
+                component: ComponentCreator('/docs/modules/specialization/genai', '925'),
+                exact: true,
+                sidebar: "modules"
               }
             ]
           }

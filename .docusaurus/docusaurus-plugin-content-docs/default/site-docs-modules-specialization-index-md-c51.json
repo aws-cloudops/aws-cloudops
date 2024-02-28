@@ -1,0 +1,28 @@
+{
+  "id": "modules/specialization/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/modules/specialization/index.md",
+  "sourceDirName": "modules/specialization",
+  "slug": "/modules/specialization/",
+  "permalink": "/docs/modules/specialization/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/specialization/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Specializations",
+    "sidebar_position": 4
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Monitoring and Reporting",
+    "permalink": "/docs/modules/cloud/monitoring"
+  },
+  "next": {
+    "title": "Generative AI",
+    "permalink": "/docs/modules/specialization/genai"
+  }
+}

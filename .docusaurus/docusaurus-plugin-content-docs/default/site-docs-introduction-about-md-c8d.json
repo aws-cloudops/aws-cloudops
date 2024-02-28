@@ -1,0 +1,24 @@
+{
+  "id": "introduction/about",
+  "title": "About Silver Lining",
+  "description": "Preparation",
+  "source": "@site/docs/introduction/about.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/about",
+  "permalink": "/docs/introduction/about",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/about.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "About Silver Lining",
+    "sidebar_position": 6
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Code of Conduct",
+    "permalink": "/docs/introduction/code-of-conduct"
+  }
+}

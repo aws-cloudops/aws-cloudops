@@ -5,10 +5,10 @@
   "count": 1,
   "items": [
     {
-      "id": "philosophy",
+      "id": "introduction/philosophy",
       "title": "Philosophy",
       "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
-      "permalink": "/docs/philosophy"
+      "permalink": "/docs/introduction/philosophy"
     }
   ],
   "unlisted": false

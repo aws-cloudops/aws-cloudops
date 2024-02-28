@@ -1,0 +1,28 @@
+{
+  "id": "modules/cloud/monitoring",
+  "title": "monitoring",
+  "description": "",
+  "source": "@site/docs/modules/cloud/monitoring.md",
+  "sourceDirName": "modules/cloud",
+  "slug": "/modules/cloud/monitoring",
+  "permalink": "/docs/modules/cloud/monitoring",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/cloud/monitoring.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Monitoring and Reporting",
+    "sidebar_position": 9
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Automation, Deployment, and Provisioning",
+    "permalink": "/docs/modules/cloud/automation"
+  },
+  "next": {
+    "title": "Specializations",
+    "permalink": "/docs/modules/specialization/"
+  }
+}

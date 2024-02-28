@@ -1,0 +1,28 @@
+{
+  "id": "modules/fundamentals/storage",
+  "title": "storage",
+  "description": "",
+  "source": "@site/docs/modules/fundamentals/storage.md",
+  "sourceDirName": "modules/fundamentals",
+  "slug": "/modules/fundamentals/storage",
+  "permalink": "/docs/modules/fundamentals/storage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Storage and Data Management",
+    "sidebar_position": 4
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Networking in AWS",
+    "permalink": "/docs/modules/fundamentals/networking_in_aws"
+  },
+  "next": {
+    "title": "Advanced Linux",
+    "permalink": "/docs/modules/fundamentals/advanced_linux"
+  }
+}

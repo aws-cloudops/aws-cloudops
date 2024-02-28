@@ -1,0 +1,25 @@
+{
+  "id": "modules/index",
+  "title": "Modules",
+  "description": "Modules intro text",
+  "source": "@site/docs/modules/index.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/",
+  "permalink": "/docs/modules/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Modules",
+    "sidebar_position": 1,
+    "weight": 5
+  },
+  "sidebar": "modules",
+  "next": {
+    "title": "Fundamentals",
+    "permalink": "/docs/modules/fundamentals/"
+  }
+}
