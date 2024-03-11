@@ -28,7 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        The content here was developed by Solutions Architects who deal with real customer issues every day.
+        The content here was developed by experienced Solutions Architects who spend every day in the cloud.
       </>
     ),
   },
