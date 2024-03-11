@@ -42,7 +42,7 @@
             {
               "id": "getting_started/index",
               "title": "Getting Started",
-              "description": "Preparation",
+              "description": "Silver Lining consists of six stages, as shown below. Only one of them is hands-on, learning the material!",
               "source": "@site/docs/getting_started/index.md",
               "sourceDirName": "getting_started",
               "slug": "/getting_started/",
@@ -67,7 +67,7 @@
             {
               "id": "getting_started/learning_roadmap",
               "title": "Learning Roadmap",
-              "description": "Modules At a Glance",
+              "description": "Course content for each module can be found in the Modules area. Each section has associated homework",
               "source": "@site/docs/getting_started/learning_roadmap.md",
               "sourceDirName": "getting_started",
               "slug": "/getting_started/learning_roadmap",
