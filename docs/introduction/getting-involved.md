@@ -16,3 +16,8 @@ We welcome corrections and additions. Feel free to file a Pull Request at the va
 associated with this project, and one of the core contributors will review it for accuracy. Our content is written in
 Markdown and processed by a static site generator (Docusaurus or Hugo as of now). Feel free to Slack dixonaws for 
 more information.
+
+## Industry Speakers
+We're always looking for guest speakers from industry to hold a 60-minute session about the role of cloud in their
+business. What is the role of a cloud support engineer at your company? Why is it important? What is the profile of
+the ideal candidate? If you're interested in speaking in one of our cohorts, we'd love to hear from you!

@@ -1,7 +1,7 @@
 {
   "id": "introduction/index",
   "title": "Introduction",
-  "description": "Introductory text",
+  "description": "Companies large and small are using cloud computing to optimize their businesses. There is an increasing need",
   "source": "@site/docs/introduction/index.md",
   "sourceDirName": "introduction",
   "slug": "/introduction/",
