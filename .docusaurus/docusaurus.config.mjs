@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -77,13 +77,8 @@ export default {
           "docId": "employers/index"
         },
         {
-          "href": "https://github.com/dixonaws/aws-cloudops",
+          "href": "about:blank",
           "label": "Register Now!",
-          "position": "right"
-        },
-        {
-          "href": "https://github.com/dixonaws/aws-cloudops",
-          "label": "GitHub",
           "position": "right"
         }
       ]

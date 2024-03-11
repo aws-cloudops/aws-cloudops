@@ -1,19 +1,20 @@
 {
   "id": "modules/fundamentals/linux",
-  "title": "linux",
-  "description": "",
+  "title": "Linux Administration Basics",
+  "description": "In this module, students learn the basics of Linux server administration. As this is a fundamental skill in",
   "source": "@site/docs/modules/fundamentals/linux.md",
   "sourceDirName": "modules/fundamentals",
   "slug": "/modules/fundamentals/linux",
   "permalink": "/docs/modules/fundamentals/linux",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/docs/modules/fundamentals/linux.md",
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/docs/modules/fundamentals/linux.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_label": "Linux Administration Basics",
+    "title": "Linux Administration Basics",
     "sidebar_position": 3
   },
   "sidebar": "modules",

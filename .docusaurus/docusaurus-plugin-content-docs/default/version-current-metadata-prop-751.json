@@ -229,7 +229,7 @@
     "introduction/about": {
       "id": "introduction/about",
       "title": "About Silver Lining",
-      "description": "Preparation",
+      "description": "The Silver Lining program is delivered by a community of volunteers who donate their time to",
       "sidebar": "introduction"
     },
     "introduction/code-of-conduct": {
@@ -241,7 +241,7 @@
     "introduction/getting-involved": {
       "id": "introduction/getting-involved",
       "title": "Getting Involved",
-      "description": "There are a few ways to get involved with the Silver Lining program",
+      "description": "In case you're here looking for ways to get involved in producing or delivering content, there are a few ways to",
       "sidebar": "introduction"
     },
     "introduction/index": {
@@ -294,8 +294,8 @@
     },
     "modules/fundamentals/linux": {
       "id": "modules/fundamentals/linux",
-      "title": "linux",
-      "description": "",
+      "title": "Linux Administration Basics",
+      "description": "In this module, students learn the basics of Linux server administration. As this is a fundamental skill in",
       "sidebar": "modules"
     },
     "modules/fundamentals/networking_in_aws": {

@@ -44,7 +44,7 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/dixonaws/aws-cloudops/tree/main/packages/create-docusaurus/templates/shared/',
+                        'https://github.com/dixonaws/aws-cloudops/tree/main/',
                 },
                 blog: {
                     showReadingTime: true,
@@ -103,15 +103,15 @@ const config = {
                         docId: 'employers/index',
                     },
                     {
-                        href: 'https://github.com/dixonaws/aws-cloudops',
+                        href: 'about:blank',
                         label: 'Register Now!',
                         position: 'right',
                     },
-                    {
-                        href: 'https://github.com/dixonaws/aws-cloudops',
-                        label: 'GitHub',
-                        position: 'right',
-                    },
+                    // {
+                    //     href: 'https://github.com/dixonaws/aws-cloudops',
+                    //     label: 'GitHub',
+                    //     position: 'right',
+                    // },
                 ],
             },
             docs: {
