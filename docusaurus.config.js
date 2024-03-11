@@ -71,7 +71,7 @@ const config = {
                 title: 'aws-cloudops',
                 logo: {
                     alt: 'aws cloud ops logo',
-                    src: 'img/logo.svg',
+                    src: 'img/aws-cloudops-logo.jpg',
                 },
                 items: [
                     {
