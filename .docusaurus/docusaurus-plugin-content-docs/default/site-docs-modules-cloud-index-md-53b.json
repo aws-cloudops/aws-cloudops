@@ -1,7 +1,7 @@
 {
   "id": "modules/cloud/index",
-  "title": "index",
-  "description": "",
+  "title": "Cloud Administration Section",
+  "description": "In this section:",
   "source": "@site/docs/modules/cloud/index.md",
   "sourceDirName": "modules/cloud",
   "slug": "/modules/cloud/",
@@ -14,7 +14,8 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_label": "Cloud Administration",
-    "sidebar_position": 3
+    "sidebar_position": 3,
+    "title": "Cloud Administration Section"
   },
   "sidebar": "modules",
   "previous": {

@@ -26,14 +26,14 @@ You'd like to enter the information technology field via cloud computing. You're
 learn new things, make connections, meet like-minded people, and have fun doing it. Maybe you come from a career path
 outside of IT, or maybe you're just starting out. Maybe your current IT skillset needs a tune up.
 
-### Who we Are
+### Who we are
 We are a group of volunteers at Amazon Web Services who think that great careers in IT can be accessible to
 anyone who has the interest and motivation. You don't need a degree in Computer Science to have a great career
 as a cloud operations engineer.
 
 
 ## What you'll need
-At minimum, you'll need an internet connection and a PC or Mac. Many of the authors use macOS.
+At minimum, you'll need an internet connection and a PC or Mac. Many of the authors use a Mac.
 
 ## Start anytime
 Although we offer an instructor-led program once per year, you can use the self-guided resources

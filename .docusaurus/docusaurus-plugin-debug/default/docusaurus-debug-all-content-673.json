@@ -21,8 +21,8 @@
           "docs": [
             {
               "id": "employers/index",
-              "title": "index",
-              "description": "Info for employers",
+              "title": "For Employers and Hiring Managers",
+              "description": "Under Construction",
               "source": "@site/docs/employers/index.md",
               "sourceDirName": "employers",
               "slug": "/employers/",
@@ -35,7 +35,8 @@
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_label": "For Employers",
-                "sidebar_position": 3
+                "sidebar_position": 3,
+                "title": "For Employers and Hiring Managers"
               },
               "sidebar": "employers"
             },
@@ -237,7 +238,7 @@
             },
             {
               "id": "modules/cloud/automation",
-              "title": "automation",
+              "title": "Automation",
               "description": "",
               "source": "@site/docs/modules/cloud/automation.md",
               "sourceDirName": "modules/cloud",
@@ -251,7 +252,8 @@
               "sidebarPosition": 8,
               "frontMatter": {
                 "sidebar_label": "Automation, Deployment, and Provisioning",
-                "sidebar_position": 8
+                "sidebar_position": 8,
+                "title": "Automation"
               },
               "sidebar": "modules",
               "previous": {
@@ -265,8 +267,8 @@
             },
             {
               "id": "modules/cloud/index",
-              "title": "index",
-              "description": "",
+              "title": "Cloud Administration Section",
+              "description": "In this section:",
               "source": "@site/docs/modules/cloud/index.md",
               "sourceDirName": "modules/cloud",
               "slug": "/modules/cloud/",
@@ -279,7 +281,8 @@
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_label": "Cloud Administration",
-                "sidebar_position": 3
+                "sidebar_position": 3,
+                "title": "Cloud Administration Section"
               },
               "sidebar": "modules",
               "previous": {
@@ -293,7 +296,7 @@
             },
             {
               "id": "modules/cloud/monitoring",
-              "title": "monitoring",
+              "title": "Monitoring",
               "description": "",
               "source": "@site/docs/modules/cloud/monitoring.md",
               "sourceDirName": "modules/cloud",
@@ -307,7 +310,8 @@
               "sidebarPosition": 9,
               "frontMatter": {
                 "sidebar_label": "Monitoring and Reporting",
-                "sidebar_position": 9
+                "sidebar_position": 9,
+                "title": "Monitoring"
               },
               "sidebar": "modules",
               "previous": {
@@ -321,7 +325,7 @@
             },
             {
               "id": "modules/cloud/security",
-              "title": "security",
+              "title": "Security and Compliance",
               "description": "",
               "source": "@site/docs/modules/cloud/security.md",
               "sourceDirName": "modules/cloud",
@@ -335,7 +339,8 @@
               "sidebarPosition": 7,
               "frontMatter": {
                 "sidebar_label": "Security and Compliance",
-                "sidebar_position": 7
+                "sidebar_position": 7,
+                "title": "Security and Compliance"
               },
               "sidebar": "modules",
               "previous": {
@@ -349,8 +354,8 @@
             },
             {
               "id": "modules/fundamentals/advanced_linux",
-              "title": "advanced_linux",
-              "description": "",
+              "title": "Advanced Linux",
+              "description": "In this module, students return to learn advanced Linux server administration and some Identify and",
               "source": "@site/docs/modules/fundamentals/advanced_linux.md",
               "sourceDirName": "modules/fundamentals",
               "slug": "/modules/fundamentals/advanced_linux",
@@ -363,7 +368,8 @@
               "sidebarPosition": 5,
               "frontMatter": {
                 "sidebar_label": "Advanced Linux",
-                "sidebar_position": 5
+                "sidebar_position": 5,
+                "title": "Advanced Linux"
               },
               "sidebar": "modules",
               "previous": {
@@ -377,8 +383,8 @@
             },
             {
               "id": "modules/fundamentals/index",
-              "title": "index",
-              "description": "",
+              "title": "Fundamentals",
+              "description": "In this section:",
               "source": "@site/docs/modules/fundamentals/index.md",
               "sourceDirName": "modules/fundamentals",
               "slug": "/modules/fundamentals/",
@@ -391,7 +397,8 @@
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_label": "Fundamentals",
-                "sidebar_position": 2
+                "sidebar_position": 2,
+                "title": "Fundamentals"
               },
               "sidebar": "modules",
               "previous": {
@@ -434,8 +441,8 @@
             },
             {
               "id": "modules/fundamentals/networking_in_aws",
-              "title": "networking_in_aws",
-              "description": "",
+              "title": "Networking in AWS",
+              "description": "In this module, students learn some of the basics of networking, as well as specifics of networking in AWS. As",
               "source": "@site/docs/modules/fundamentals/networking_in_aws.md",
               "sourceDirName": "modules/fundamentals",
               "slug": "/modules/fundamentals/networking_in_aws",
@@ -448,7 +455,8 @@
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_label": "Networking in AWS",
-                "sidebar_position": 4
+                "sidebar_position": 4,
+                "title": "Networking in AWS"
               },
               "sidebar": "modules",
               "previous": {
@@ -462,8 +470,8 @@
             },
             {
               "id": "modules/fundamentals/storage",
-              "title": "storage",
-              "description": "",
+              "title": "Storage and Data Management",
+              "description": "This module covers storage technology that is specific to AWS as well as common use cases like Disaster Recovery.",
               "source": "@site/docs/modules/fundamentals/storage.md",
               "sourceDirName": "modules/fundamentals",
               "slug": "/modules/fundamentals/storage",
@@ -476,7 +484,8 @@
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_label": "Storage and Data Management",
-                "sidebar_position": 4
+                "sidebar_position": 4,
+                "title": "Storage and Data Management"
               },
               "sidebar": "modules",
               "previous": {
@@ -490,8 +499,8 @@
             },
             {
               "id": "modules/fundamentals/tier_apps",
-              "title": "tier_apps",
-              "description": "",
+              "title": "Building 3-tier Applications",
+              "description": "This workshop is a hands-on walk through of a three-tier web architecture in AWS. We will be manually",
               "source": "@site/docs/modules/fundamentals/3_tier_apps.md",
               "sourceDirName": "modules/fundamentals",
               "slug": "/modules/fundamentals/tier_apps",
@@ -504,7 +513,8 @@
               "sidebarPosition": 6,
               "frontMatter": {
                 "sidebar_label": "Building 3-tier Applications",
-                "sidebar_position": 6
+                "sidebar_position": 6,
+                "title": "Building 3-tier Applications"
               },
               "sidebar": "modules",
               "previous": {
@@ -519,7 +529,7 @@
             {
               "id": "modules/index",
               "title": "Modules",
-              "description": "Modules intro text",
+              "description": "Ideally, you should follow the modules in order and complete all of the homework. The homework is designed to be",
               "source": "@site/docs/modules/index.md",
               "sourceDirName": "modules",
               "slug": "/modules/",

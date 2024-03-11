@@ -1,6 +1,6 @@
 {
   "id": "modules/cloud/security",
-  "title": "security",
+  "title": "Security and Compliance",
   "description": "",
   "source": "@site/docs/modules/cloud/security.md",
   "sourceDirName": "modules/cloud",
@@ -14,7 +14,8 @@
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_label": "Security and Compliance",
-    "sidebar_position": 7
+    "sidebar_position": 7,
+    "title": "Security and Compliance"
   },
   "sidebar": "modules",
   "previous": {

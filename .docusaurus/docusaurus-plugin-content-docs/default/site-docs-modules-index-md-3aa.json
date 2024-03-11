@@ -1,7 +1,7 @@
 {
   "id": "modules/index",
   "title": "Modules",
-  "description": "Modules intro text",
+  "description": "Ideally, you should follow the modules in order and complete all of the homework. The homework is designed to be",
   "source": "@site/docs/modules/index.md",
   "sourceDirName": "modules",
   "slug": "/modules/",

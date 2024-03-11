@@ -1,7 +1,7 @@
 {
   "id": "modules/fundamentals/advanced_linux",
-  "title": "advanced_linux",
-  "description": "",
+  "title": "Advanced Linux",
+  "description": "In this module, students return to learn advanced Linux server administration and some Identify and",
   "source": "@site/docs/modules/fundamentals/advanced_linux.md",
   "sourceDirName": "modules/fundamentals",
   "slug": "/modules/fundamentals/advanced_linux",
@@ -14,7 +14,8 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_label": "Advanced Linux",
-    "sidebar_position": 5
+    "sidebar_position": 5,
+    "title": "Advanced Linux"
   },
   "sidebar": "modules",
   "previous": {

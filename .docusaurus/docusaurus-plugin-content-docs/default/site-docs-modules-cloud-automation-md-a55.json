@@ -1,6 +1,6 @@
 {
   "id": "modules/cloud/automation",
-  "title": "automation",
+  "title": "Automation",
   "description": "",
   "source": "@site/docs/modules/cloud/automation.md",
   "sourceDirName": "modules/cloud",
@@ -14,7 +14,8 @@
   "sidebarPosition": 8,
   "frontMatter": {
     "sidebar_label": "Automation, Deployment, and Provisioning",
-    "sidebar_position": 8
+    "sidebar_position": 8,
+    "title": "Automation"
   },
   "sidebar": "modules",
   "previous": {

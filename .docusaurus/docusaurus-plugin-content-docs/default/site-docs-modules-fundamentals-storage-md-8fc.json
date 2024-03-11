@@ -1,7 +1,7 @@
 {
   "id": "modules/fundamentals/storage",
-  "title": "storage",
-  "description": "",
+  "title": "Storage and Data Management",
+  "description": "This module covers storage technology that is specific to AWS as well as common use cases like Disaster Recovery.",
   "source": "@site/docs/modules/fundamentals/storage.md",
   "sourceDirName": "modules/fundamentals",
   "slug": "/modules/fundamentals/storage",
@@ -14,7 +14,8 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_label": "Storage and Data Management",
-    "sidebar_position": 4
+    "sidebar_position": 4,
+    "title": "Storage and Data Management"
   },
   "sidebar": "modules",
   "previous": {

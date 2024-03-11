@@ -1,7 +1,7 @@
 {
   "id": "modules/fundamentals/index",
-  "title": "index",
-  "description": "",
+  "title": "Fundamentals",
+  "description": "In this section:",
   "source": "@site/docs/modules/fundamentals/index.md",
   "sourceDirName": "modules/fundamentals",
   "slug": "/modules/fundamentals/",
@@ -14,7 +14,8 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_label": "Fundamentals",
-    "sidebar_position": 2
+    "sidebar_position": 2,
+    "title": "Fundamentals"
   },
   "sidebar": "modules",
   "previous": {

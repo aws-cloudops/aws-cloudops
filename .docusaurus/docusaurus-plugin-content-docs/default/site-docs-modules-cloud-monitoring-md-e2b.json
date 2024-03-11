@@ -1,6 +1,6 @@
 {
   "id": "modules/cloud/monitoring",
-  "title": "monitoring",
+  "title": "Monitoring",
   "description": "",
   "source": "@site/docs/modules/cloud/monitoring.md",
   "sourceDirName": "modules/cloud",
@@ -14,7 +14,8 @@
   "sidebarPosition": 9,
   "frontMatter": {
     "sidebar_label": "Monitoring and Reporting",
-    "sidebar_position": 9
+    "sidebar_position": 9,
+    "title": "Monitoring"
   },
   "sidebar": "modules",
   "previous": {

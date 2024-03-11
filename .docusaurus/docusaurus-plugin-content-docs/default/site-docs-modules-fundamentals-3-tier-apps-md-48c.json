@@ -1,7 +1,7 @@
 {
   "id": "modules/fundamentals/tier_apps",
-  "title": "tier_apps",
-  "description": "",
+  "title": "Building 3-tier Applications",
+  "description": "This workshop is a hands-on walk through of a three-tier web architecture in AWS. We will be manually",
   "source": "@site/docs/modules/fundamentals/3_tier_apps.md",
   "sourceDirName": "modules/fundamentals",
   "slug": "/modules/fundamentals/tier_apps",
@@ -14,7 +14,8 @@
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_label": "Building 3-tier Applications",
-    "sidebar_position": 6
+    "sidebar_position": 6,
+    "title": "Building 3-tier Applications"
   },
   "sidebar": "modules",
   "previous": {

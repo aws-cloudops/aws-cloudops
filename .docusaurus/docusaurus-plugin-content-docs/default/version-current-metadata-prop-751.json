@@ -210,8 +210,8 @@
   "docs": {
     "employers/index": {
       "id": "employers/index",
-      "title": "index",
-      "description": "Info for employers",
+      "title": "For Employers and Hiring Managers",
+      "description": "Under Construction",
       "sidebar": "employers"
     },
     "getting_started/index": {
@@ -258,38 +258,38 @@
     },
     "modules/cloud/automation": {
       "id": "modules/cloud/automation",
-      "title": "automation",
+      "title": "Automation",
       "description": "",
       "sidebar": "modules"
     },
     "modules/cloud/index": {
       "id": "modules/cloud/index",
-      "title": "index",
-      "description": "",
+      "title": "Cloud Administration Section",
+      "description": "In this section:",
       "sidebar": "modules"
     },
     "modules/cloud/monitoring": {
       "id": "modules/cloud/monitoring",
-      "title": "monitoring",
+      "title": "Monitoring",
       "description": "",
       "sidebar": "modules"
     },
     "modules/cloud/security": {
       "id": "modules/cloud/security",
-      "title": "security",
+      "title": "Security and Compliance",
       "description": "",
       "sidebar": "modules"
     },
     "modules/fundamentals/advanced_linux": {
       "id": "modules/fundamentals/advanced_linux",
-      "title": "advanced_linux",
-      "description": "",
+      "title": "Advanced Linux",
+      "description": "In this module, students return to learn advanced Linux server administration and some Identify and",
       "sidebar": "modules"
     },
     "modules/fundamentals/index": {
       "id": "modules/fundamentals/index",
-      "title": "index",
-      "description": "",
+      "title": "Fundamentals",
+      "description": "In this section:",
       "sidebar": "modules"
     },
     "modules/fundamentals/linux": {
@@ -300,26 +300,26 @@
     },
     "modules/fundamentals/networking_in_aws": {
       "id": "modules/fundamentals/networking_in_aws",
-      "title": "networking_in_aws",
-      "description": "",
+      "title": "Networking in AWS",
+      "description": "In this module, students learn some of the basics of networking, as well as specifics of networking in AWS. As",
       "sidebar": "modules"
     },
     "modules/fundamentals/storage": {
       "id": "modules/fundamentals/storage",
-      "title": "storage",
-      "description": "",
+      "title": "Storage and Data Management",
+      "description": "This module covers storage technology that is specific to AWS as well as common use cases like Disaster Recovery.",
       "sidebar": "modules"
     },
     "modules/fundamentals/tier_apps": {
       "id": "modules/fundamentals/tier_apps",
-      "title": "tier_apps",
-      "description": "",
+      "title": "Building 3-tier Applications",
+      "description": "This workshop is a hands-on walk through of a three-tier web architecture in AWS. We will be manually",
       "sidebar": "modules"
     },
     "modules/index": {
       "id": "modules/index",
       "title": "Modules",
-      "description": "Modules intro text",
+      "description": "Ideally, you should follow the modules in order and complete all of the homework. The homework is designed to be",
       "sidebar": "modules"
     },
     "modules/pro_skills/customer": {
