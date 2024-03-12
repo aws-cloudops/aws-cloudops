@@ -1,7 +1,7 @@
 {
   "id": "modules/cloud/monitoring",
-  "title": "Monitoring",
-  "description": "",
+  "title": "Monitoring and Observability",
+  "description": "Monitoring and observability in AWS generally includes a discussion of the following services:",
   "source": "@site/docs/modules/cloud/monitoring.md",
   "sourceDirName": "modules/cloud",
   "slug": "/modules/cloud/monitoring",
@@ -13,9 +13,9 @@
   "version": "current",
   "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_label": "Monitoring and Reporting",
+    "sidebar_label": "Monitoring and Observability",
     "sidebar_position": 9,
-    "title": "Monitoring"
+    "title": "Monitoring and Observability"
   },
   "sidebar": "modules",
   "previous": {

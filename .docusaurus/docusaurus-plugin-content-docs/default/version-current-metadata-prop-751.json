@@ -119,7 +119,7 @@
           },
           {
             "type": "link",
-            "label": "Monitoring and Reporting",
+            "label": "Monitoring and Observability",
             "href": "/docs/modules/cloud/monitoring",
             "docId": "modules/cloud/monitoring",
             "unlisted": false
@@ -258,8 +258,8 @@
     },
     "modules/cloud/automation": {
       "id": "modules/cloud/automation",
-      "title": "Automation",
-      "description": "",
+      "title": "Automation, Deployment, and Provisioning",
+      "description": "Automation, automated deployment, and infrastructute as code are core skills in any cloud engineer's",
       "sidebar": "modules"
     },
     "modules/cloud/index": {
@@ -270,14 +270,14 @@
     },
     "modules/cloud/monitoring": {
       "id": "modules/cloud/monitoring",
-      "title": "Monitoring",
-      "description": "",
+      "title": "Monitoring and Observability",
+      "description": "Monitoring and observability in AWS generally includes a discussion of the following services:",
       "sidebar": "modules"
     },
     "modules/cloud/security": {
       "id": "modules/cloud/security",
       "title": "Security and Compliance",
-      "description": "",
+      "description": "In this section, you'll learn about the fundamentals of AWS security controls, including:",
       "sidebar": "modules"
     },
     "modules/fundamentals/advanced_linux": {
@@ -354,14 +354,14 @@
     },
     "modules/specialization/genai": {
       "id": "modules/specialization/genai",
-      "title": "genai",
-      "description": "",
+      "title": "GenAI",
+      "description": "(as of 12 Mar 2024) This section is being updated with new content:",
       "sidebar": "modules"
     },
     "modules/specialization/index": {
       "id": "modules/specialization/index",
-      "title": "index",
-      "description": "",
+      "title": "Specialization Tracks",
+      "description": "During the instructor-led classes, students are invited to take a specialty in on of three areas, consisting of 1-4 additional sessions with an expert:",
       "sidebar": "modules"
     }
   }

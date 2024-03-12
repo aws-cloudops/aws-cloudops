@@ -1,7 +1,7 @@
 {
   "id": "modules/cloud/automation",
-  "title": "Automation",
-  "description": "",
+  "title": "Automation, Deployment, and Provisioning",
+  "description": "Automation, automated deployment, and infrastructute as code are core skills in any cloud engineer's",
   "source": "@site/docs/modules/cloud/automation.md",
   "sourceDirName": "modules/cloud",
   "slug": "/modules/cloud/automation",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "Automation, Deployment, and Provisioning",
     "sidebar_position": 8,
-    "title": "Automation"
+    "title": "Automation, Deployment, and Provisioning"
   },
   "sidebar": "modules",
   "previous": {
@@ -23,7 +23,7 @@
     "permalink": "/docs/modules/cloud/security"
   },
   "next": {
-    "title": "Monitoring and Reporting",
+    "title": "Monitoring and Observability",
     "permalink": "/docs/modules/cloud/monitoring"
   }
 }

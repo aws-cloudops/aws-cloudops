@@ -1,7 +1,7 @@
 {
   "id": "modules/cloud/security",
   "title": "Security and Compliance",
-  "description": "",
+  "description": "In this section, you'll learn about the fundamentals of AWS security controls, including:",
   "source": "@site/docs/modules/cloud/security.md",
   "sourceDirName": "modules/cloud",
   "slug": "/modules/cloud/security",

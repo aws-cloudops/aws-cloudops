@@ -1,7 +1,7 @@
 {
   "id": "modules/specialization/genai",
-  "title": "genai",
-  "description": "",
+  "title": "GenAI",
+  "description": "(as of 12 Mar 2024) This section is being updated with new content:",
   "source": "@site/docs/modules/specialization/genai.md",
   "sourceDirName": "modules/specialization",
   "slug": "/modules/specialization/genai",
@@ -14,7 +14,8 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_label": "Generative AI",
-    "sidebar_position": 3
+    "sidebar_position": 3,
+    "title": "GenAI"
   },
   "sidebar": "modules",
   "previous": {

@@ -238,8 +238,8 @@
             },
             {
               "id": "modules/cloud/automation",
-              "title": "Automation",
-              "description": "",
+              "title": "Automation, Deployment, and Provisioning",
+              "description": "Automation, automated deployment, and infrastructute as code are core skills in any cloud engineer's",
               "source": "@site/docs/modules/cloud/automation.md",
               "sourceDirName": "modules/cloud",
               "slug": "/modules/cloud/automation",
@@ -253,7 +253,7 @@
               "frontMatter": {
                 "sidebar_label": "Automation, Deployment, and Provisioning",
                 "sidebar_position": 8,
-                "title": "Automation"
+                "title": "Automation, Deployment, and Provisioning"
               },
               "sidebar": "modules",
               "previous": {
@@ -261,7 +261,7 @@
                 "permalink": "/docs/modules/cloud/security"
               },
               "next": {
-                "title": "Monitoring and Reporting",
+                "title": "Monitoring and Observability",
                 "permalink": "/docs/modules/cloud/monitoring"
               }
             },
@@ -296,8 +296,8 @@
             },
             {
               "id": "modules/cloud/monitoring",
-              "title": "Monitoring",
-              "description": "",
+              "title": "Monitoring and Observability",
+              "description": "Monitoring and observability in AWS generally includes a discussion of the following services:",
               "source": "@site/docs/modules/cloud/monitoring.md",
               "sourceDirName": "modules/cloud",
               "slug": "/modules/cloud/monitoring",
@@ -309,9 +309,9 @@
               "version": "current",
               "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_label": "Monitoring and Reporting",
+                "sidebar_label": "Monitoring and Observability",
                 "sidebar_position": 9,
-                "title": "Monitoring"
+                "title": "Monitoring and Observability"
               },
               "sidebar": "modules",
               "previous": {
@@ -326,7 +326,7 @@
             {
               "id": "modules/cloud/security",
               "title": "Security and Compliance",
-              "description": "",
+              "description": "In this section, you'll learn about the fundamentals of AWS security controls, including:",
               "source": "@site/docs/modules/cloud/security.md",
               "sourceDirName": "modules/cloud",
               "slug": "/modules/cloud/security",
@@ -689,8 +689,8 @@
             },
             {
               "id": "modules/specialization/genai",
-              "title": "genai",
-              "description": "",
+              "title": "GenAI",
+              "description": "(as of 12 Mar 2024) This section is being updated with new content:",
               "source": "@site/docs/modules/specialization/genai.md",
               "sourceDirName": "modules/specialization",
               "slug": "/modules/specialization/genai",
@@ -703,7 +703,8 @@
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_label": "Generative AI",
-                "sidebar_position": 3
+                "sidebar_position": 3,
+                "title": "GenAI"
               },
               "sidebar": "modules",
               "previous": {
@@ -717,8 +718,8 @@
             },
             {
               "id": "modules/specialization/index",
-              "title": "index",
-              "description": "",
+              "title": "Specialization Tracks",
+              "description": "During the instructor-led classes, students are invited to take a specialty in on of three areas, consisting of 1-4 additional sessions with an expert:",
               "source": "@site/docs/modules/specialization/index.md",
               "sourceDirName": "modules/specialization",
               "slug": "/modules/specialization/",
@@ -731,11 +732,12 @@
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_label": "Specializations",
-                "sidebar_position": 4
+                "sidebar_position": 4,
+                "title": "Specialization Tracks"
               },
               "sidebar": "modules",
               "previous": {
-                "title": "Monitoring and Reporting",
+                "title": "Monitoring and Observability",
                 "permalink": "/docs/modules/cloud/monitoring"
               },
               "next": {
@@ -829,7 +831,7 @@
                   {
                     "type": "doc",
                     "id": "modules/cloud/monitoring",
-                    "label": "Monitoring and Reporting"
+                    "label": "Monitoring and Observability"
                   }
                 ],
                 "link": {
