@@ -1,0 +1,20 @@
+{
+  "id": "introduction/insrtructorled",
+  "title": "insrtructorled",
+  "description": "",
+  "source": "@site/docs/introduction/insrtructorled.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/insrtructorled",
+  "permalink": "/docs/introduction/insrtructorled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/docs/introduction/insrtructorled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "introduction",
+  "previous": {
+    "title": "About Silver Lining",
+    "permalink": "/docs/introduction/about"
+  }
+}
