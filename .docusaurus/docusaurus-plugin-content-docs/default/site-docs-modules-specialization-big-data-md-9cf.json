@@ -1,7 +1,7 @@
 {
   "id": "modules/specialization/big_data",
-  "title": "big_data",
-  "description": "",
+  "title": "Big Data and Analytics",
+  "description": "Optional specialization. A discussion of Big Data generally includes:",
   "source": "@site/docs/modules/specialization/big_data.md",
   "sourceDirName": "modules/specialization",
   "slug": "/modules/specialization/big_data",
@@ -14,7 +14,8 @@
   "sidebarPosition": 12,
   "frontMatter": {
     "sidebar_label": "Big Data and Analytics",
-    "sidebar_position": 12
+    "sidebar_position": 12,
+    "title": "Big Data and Analytics"
   },
   "sidebar": "modules",
   "previous": {

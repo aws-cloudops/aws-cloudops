@@ -3,8 +3,7 @@ title: Getting Involved
 sidebar_position: 4
 ---
 
-In case you're here looking for ways to get involved in producing or delivering content, there are a few ways to 
-do this. 
+Interested to help with Silver Lining? There are a few ways to do this: 
 
 ## Instructors
 At the moment, all of the Silver Lining Instructors are AWS Solutions Architects or customers of AWS. If you are on the inside, feel free
@@ -21,3 +20,7 @@ more information.
 We're always looking for guest speakers from industry to hold a 60-minute session about the role of cloud in their
 business. What is the role of a cloud support engineer at your company? Why is it important? What is the profile of
 the ideal candidate? If you're interested in speaking in one of our cohorts, we'd love to hear from you!
+
+## Mentors
+One of the most important roles in Silver Lining is mentoring students as they advnce through the program, giving
+feedback and helping to identify areas where they can dive deep. Feel free to Slack dixonaws for more information.

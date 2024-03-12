@@ -1,7 +1,7 @@
 {
   "id": "modules/specialization/containers",
-  "title": "containers",
-  "description": "",
+  "title": "Containers",
+  "description": "This is an optional specialization.",
   "source": "@site/docs/modules/specialization/containers.md",
   "sourceDirName": "modules/specialization",
   "slug": "/modules/specialization/containers",
@@ -14,7 +14,8 @@
   "sidebarPosition": 10,
   "frontMatter": {
     "sidebar_label": "Containers",
-    "sidebar_position": 10
+    "sidebar_position": 10,
+    "title": "Containers"
   },
   "sidebar": "modules",
   "previous": {

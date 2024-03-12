@@ -79,11 +79,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9b5'),
+    component: ComponentCreator('/docs', 'b7f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b1a'),
+        component: ComponentCreator('/docs', 'a4b'),
         routes: [
           {
             path: '/docs/tags',
@@ -102,7 +102,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4d2'),
+            component: ComponentCreator('/docs', 'c77'),
             routes: [
               {
                 path: '/docs/employers/',
@@ -141,8 +141,20 @@ export default [
                 sidebar: "introduction"
               },
               {
+                path: '/docs/introduction/contact',
+                component: ComponentCreator('/docs/introduction/contact', '1e4'),
+                exact: true,
+                sidebar: "introduction"
+              },
+              {
                 path: '/docs/introduction/getting-involved',
                 component: ComponentCreator('/docs/introduction/getting-involved', 'fac'),
+                exact: true,
+                sidebar: "introduction"
+              },
+              {
+                path: '/docs/introduction/instructorled',
+                component: ComponentCreator('/docs/introduction/instructorled', 'b8b'),
                 exact: true,
                 sidebar: "introduction"
               },

@@ -43,6 +43,20 @@
         "href": "/docs/introduction/about",
         "docId": "introduction/about",
         "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Joining Instructor-led Training",
+        "href": "/docs/introduction/instructorled",
+        "docId": "introduction/instructorled",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Contact Us",
+        "href": "/docs/introduction/contact",
+        "docId": "introduction/contact",
+        "unlisted": false
       }
     ],
     "modules": [
@@ -238,16 +252,28 @@
       "description": "Being Professional",
       "sidebar": "introduction"
     },
+    "introduction/contact": {
+      "id": "introduction/contact",
+      "title": "Contact Us",
+      "description": "Contact drewjeff@amazon.com",
+      "sidebar": "introduction"
+    },
     "introduction/getting-involved": {
       "id": "introduction/getting-involved",
       "title": "Getting Involved",
-      "description": "In case you're here looking for ways to get involved in producing or delivering content, there are a few ways to",
+      "description": "Interested to help with Silver Lining? There are a few ways to do this:",
       "sidebar": "introduction"
     },
     "introduction/index": {
       "id": "introduction/index",
       "title": "Introduction",
       "description": "Companies large and small are using cloud computing to optimize their businesses. There is an increasing need",
+      "sidebar": "introduction"
+    },
+    "introduction/instructorled": {
+      "id": "introduction/instructorled",
+      "title": "Joining Instructor-led Training",
+      "description": "Instructor-led training is closed for 2024, but stay tuned for the 2025 invitation which will begin in February.",
       "sidebar": "introduction"
     },
     "introduction/philosophy": {
@@ -342,14 +368,14 @@
     },
     "modules/specialization/big_data": {
       "id": "modules/specialization/big_data",
-      "title": "big_data",
-      "description": "",
+      "title": "Big Data and Analytics",
+      "description": "Optional specialization. A discussion of Big Data generally includes:",
       "sidebar": "modules"
     },
     "modules/specialization/containers": {
       "id": "modules/specialization/containers",
-      "title": "containers",
-      "description": "",
+      "title": "Containers",
+      "description": "This is an optional specialization.",
       "sidebar": "modules"
     },
     "modules/specialization/genai": {

@@ -111,6 +111,10 @@
               "previous": {
                 "title": "Code of Conduct",
                 "permalink": "/docs/introduction/code-of-conduct"
+              },
+              "next": {
+                "title": "Joining Instructor-led Training",
+                "permalink": "/docs/introduction/instructorled"
               }
             },
             {
@@ -142,9 +146,33 @@
               }
             },
             {
+              "id": "introduction/contact",
+              "title": "Contact Us",
+              "description": "Contact drewjeff@amazon.com",
+              "source": "@site/docs/introduction/contact.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/contact",
+              "permalink": "/docs/introduction/contact",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/docs/introduction/contact.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "Contact Us",
+                "sidebar_position": 7
+              },
+              "sidebar": "introduction",
+              "previous": {
+                "title": "Joining Instructor-led Training",
+                "permalink": "/docs/introduction/instructorled"
+              }
+            },
+            {
               "id": "introduction/getting-involved",
               "title": "Getting Involved",
-              "description": "In case you're here looking for ways to get involved in producing or delivering content, there are a few ways to",
+              "description": "Interested to help with Silver Lining? There are a few ways to do this:",
               "source": "@site/docs/introduction/getting-involved.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/getting-involved",
@@ -192,6 +220,34 @@
               "next": {
                 "title": "Philosophy",
                 "permalink": "/docs/introduction/philosophy"
+              }
+            },
+            {
+              "id": "introduction/instructorled",
+              "title": "Joining Instructor-led Training",
+              "description": "Instructor-led training is closed for 2024, but stay tuned for the 2025 invitation which will begin in February.",
+              "source": "@site/docs/introduction/instructorled.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/instructorled",
+              "permalink": "/docs/introduction/instructorled",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/dixonaws/aws-cloudops/tree/main/docs/introduction/instructorled.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Joining Instructor-led Training",
+                "sidebar_position": 6
+              },
+              "sidebar": "introduction",
+              "previous": {
+                "title": "About Silver Lining",
+                "permalink": "/docs/introduction/about"
+              },
+              "next": {
+                "title": "Contact Us",
+                "permalink": "/docs/introduction/contact"
               }
             },
             {
@@ -633,8 +689,8 @@
             },
             {
               "id": "modules/specialization/big_data",
-              "title": "big_data",
-              "description": "",
+              "title": "Big Data and Analytics",
+              "description": "Optional specialization. A discussion of Big Data generally includes:",
               "source": "@site/docs/modules/specialization/big_data.md",
               "sourceDirName": "modules/specialization",
               "slug": "/modules/specialization/big_data",
@@ -647,7 +703,8 @@
               "sidebarPosition": 12,
               "frontMatter": {
                 "sidebar_label": "Big Data and Analytics",
-                "sidebar_position": 12
+                "sidebar_position": 12,
+                "title": "Big Data and Analytics"
               },
               "sidebar": "modules",
               "previous": {
@@ -661,8 +718,8 @@
             },
             {
               "id": "modules/specialization/containers",
-              "title": "containers",
-              "description": "",
+              "title": "Containers",
+              "description": "This is an optional specialization.",
               "source": "@site/docs/modules/specialization/containers.md",
               "sourceDirName": "modules/specialization",
               "slug": "/modules/specialization/containers",
@@ -675,7 +732,8 @@
               "sidebarPosition": 10,
               "frontMatter": {
                 "sidebar_label": "Containers",
-                "sidebar_position": 10
+                "sidebar_position": 10,
+                "title": "Containers"
               },
               "sidebar": "modules",
               "previous": {
@@ -768,6 +826,14 @@
               {
                 "type": "doc",
                 "id": "introduction/about"
+              },
+              {
+                "type": "doc",
+                "id": "introduction/instructorled"
+              },
+              {
+                "type": "doc",
+                "id": "introduction/contact"
               }
             ],
             "modules": [

@@ -36,6 +36,11 @@
               "sidebar": "introduction"
             },
             {
+              "id": "introduction/contact",
+              "path": "/docs/introduction/contact",
+              "sidebar": "introduction"
+            },
+            {
               "id": "introduction/getting-involved",
               "path": "/docs/introduction/getting-involved",
               "sidebar": "introduction"
@@ -43,6 +48,11 @@
             {
               "id": "introduction/index",
               "path": "/docs/introduction/",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/instructorled",
+              "path": "/docs/introduction/instructorled",
               "sidebar": "introduction"
             },
             {

@@ -77,7 +77,8 @@ export default {
           "docId": "employers/index"
         },
         {
-          "href": "about:blank",
+          "docId": "docs/introduction/instructorled",
+          "to": "docs/introduction/instructorled",
           "label": "Register Now!",
           "position": "right"
         }

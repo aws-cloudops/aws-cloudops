@@ -20,5 +20,9 @@
   "previous": {
     "title": "Code of Conduct",
     "permalink": "/docs/introduction/code-of-conduct"
+  },
+  "next": {
+    "title": "Joining Instructor-led Training",
+    "permalink": "/docs/introduction/instructorled"
   }
 }
