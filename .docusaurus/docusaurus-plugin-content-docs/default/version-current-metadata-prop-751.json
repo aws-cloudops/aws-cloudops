@@ -350,20 +350,20 @@
     },
     "modules/pro_skills/customer": {
       "id": "modules/pro_skills/customer",
-      "title": "customer",
-      "description": "",
+      "title": "Customer Presentations",
+      "description": "This section is delivered in the instructor-led track.",
       "sidebar": "modules"
     },
     "modules/pro_skills/index": {
       "id": "modules/pro_skills/index",
-      "title": "index",
-      "description": "",
+      "title": "Professional Skills",
+      "description": "These modules are delivered as a part of the instructor-led track.",
       "sidebar": "modules"
     },
     "modules/pro_skills/resume_interview_prep": {
       "id": "modules/pro_skills/resume_interview_prep",
       "title": "Resume and Interview Prep",
-      "description": "",
+      "description": "Consider your resume as one part of your portfolio as a technical professional. Your complete portfolio should include:",
       "sidebar": "modules"
     },
     "modules/specialization/big_data": {

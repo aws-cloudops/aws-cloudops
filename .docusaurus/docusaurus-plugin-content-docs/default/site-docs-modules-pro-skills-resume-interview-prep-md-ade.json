@@ -1,7 +1,7 @@
 {
   "id": "modules/pro_skills/resume_interview_prep",
   "title": "Resume and Interview Prep",
-  "description": "",
+  "description": "Consider your resume as one part of your portfolio as a technical professional. Your complete portfolio should include:",
   "source": "@site/docs/modules/pro_skills/resume_interview_prep.md",
   "sourceDirName": "modules/pro_skills",
   "slug": "/modules/pro_skills/resume_interview_prep",

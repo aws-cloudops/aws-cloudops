@@ -609,8 +609,8 @@
             },
             {
               "id": "modules/pro_skills/customer",
-              "title": "customer",
-              "description": "",
+              "title": "Customer Presentations",
+              "description": "This section is delivered in the instructor-led track.",
               "source": "@site/docs/modules/pro_skills/customer.md",
               "sourceDirName": "modules/pro_skills",
               "slug": "/modules/pro_skills/customer",
@@ -623,7 +623,8 @@
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_label": "Customer Presentations",
-                "sidebar_position": 3
+                "sidebar_position": 3,
+                "title": "Customer Presentations"
               },
               "sidebar": "modules",
               "previous": {
@@ -637,8 +638,8 @@
             },
             {
               "id": "modules/pro_skills/index",
-              "title": "index",
-              "description": "",
+              "title": "Professional Skills",
+              "description": "These modules are delivered as a part of the instructor-led track.",
               "source": "@site/docs/modules/pro_skills/index.md",
               "sourceDirName": "modules/pro_skills",
               "slug": "/modules/pro_skills/",
@@ -651,7 +652,8 @@
               "sidebarPosition": 5,
               "frontMatter": {
                 "sidebar_label": "Professional Skills",
-                "sidebar_position": 5
+                "sidebar_position": 5,
+                "title": "Professional Skills"
               },
               "sidebar": "modules",
               "previous": {
@@ -666,7 +668,7 @@
             {
               "id": "modules/pro_skills/resume_interview_prep",
               "title": "Resume and Interview Prep",
-              "description": "",
+              "description": "Consider your resume as one part of your portfolio as a technical professional. Your complete portfolio should include:",
               "source": "@site/docs/modules/pro_skills/resume_interview_prep.md",
               "sourceDirName": "modules/pro_skills",
               "slug": "/modules/pro_skills/resume_interview_prep",

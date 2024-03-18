@@ -1,7 +1,7 @@
 {
   "id": "modules/pro_skills/index",
-  "title": "index",
-  "description": "",
+  "title": "Professional Skills",
+  "description": "These modules are delivered as a part of the instructor-led track.",
   "source": "@site/docs/modules/pro_skills/index.md",
   "sourceDirName": "modules/pro_skills",
   "slug": "/modules/pro_skills/",
@@ -14,7 +14,8 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_label": "Professional Skills",
-    "sidebar_position": 5
+    "sidebar_position": 5,
+    "title": "Professional Skills"
   },
   "sidebar": "modules",
   "previous": {
