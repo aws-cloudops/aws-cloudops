@@ -8,7 +8,7 @@ Consider your resume as one part of your portfolio as a technical professional. 
 * Traditional resume and cover letter
 * Your GitHub repositories - evidence of what you've done
 * Personal website and/or blog, e.g., www.dixonaws.com
-  * You can easily develop a personal website with tools like [hugo](http://www.gohugo.io) or [docusaurus](http://www.docusaurus.io)
+  * You can easily develop a personal website with tools like [hugo](http://www.gohugo.io) or [docusaurus](http://www.docusaurus.io) and host in AWS or GitHub
 * Your YouTube videos - a starter is your video homework from Silver Lining
 * Your LinkedIn profile
 * Your personal network
