@@ -12,52 +12,55 @@ To skill up for an entry-level job as a cloud support engineer, you should focus
 combination of technical skills, practical experience, and soft skills. We created the Silver Lining program to 
 address each of these:
 
-## Learn Cloud Platforms
+## Technical Skills
+### Learn AWS
 Familiarize yourself with popular cloud platforms such as Amazon Web Services (AWS) -- understand 
-the core services (such as EC2), how the platform is structured, and how servces are priced. 
+the core services (such as EC2), how the platform is structured, and how services are priced. See our [Learning Roadmap](http://localhost:3000/docs/getting_started/learning_roadmap)
+* Fundamentals: Operating Systems, Storage, Networking: Understand basic networking concepts like IP addressing, routing, subnetting, and DNS.
+* Cloud Administration: AWS-specific skills
+* Scripting and Automation: Learn scripting languages like Python or PowerShell to automate tasks and manage cloud resources.
 
-## Gain Technical Skills
-Networking: Understand basic networking concepts like IP addressing, routing, subnetting, and DNS.
-Operating Systems: Have a good grasp of Linux and Windows operating systems.
-Scripting and Automation: Learn scripting languages like Python or PowerShell to automate tasks and manage cloud resources.
-Virtualization: Understand virtualization concepts and technologies like VMware, Docker, and Kubernetes.
-
-## Get Certified
+### Get Certified
 Consider pursuing certifications relevant to cloud computing, such as:
 * AWS Certified Cloud Practitioner
 * AWS SysOps Administrator
 * AWS Associate Solutions Architect
 
-## Hands-On Practice
+## Practical Experience
+### Hands-On Practice
 Set up your own cloud environment (using free tiers if available) and practice deploying and managing 
 various services. Work on projects that simulate real-world scenarios to gain practical experience.
 
-## Troubleshooting Skills
+### Troubleshooting Skills
 Develop problem-solving and troubleshooting skills. Practice diagnosing and resolving 
 common issues that may arise in a cloud environment.
 
-## Soft Skills Development
+## Soft Skills
 ### Communication
-Develop strong communication skills, both verbal and written, as you'll often need to interact with customers or team members.
+Develop strong communication skills, both verbal and written, as you'll often need to 
+interact with customers or team members.
 
-### Customer Service
-Understand the importance of providing excellent customer service and how to effectively manage customer expectations.
+### Customer Focus
+Understand the importance of delighting customers and how to effectively manage customer expectations.
 
 ### Collaboration
 Learn to work effectively in a team environment, collaborating with colleagues to solve problems and achieve common goals.
 
 ### Stay Updated
-Cloud technology is rapidly evolving, so stay updated with the latest trends, best practices, and new services introduced by cloud providers. Follow industry blogs, attend webinars, and participate in relevant online communities.
+Cloud technology is rapidly evolving, so stay updated with the latest trends, best practices, and 
+new services introduced by cloud providers. Follow industry blogs, attend webinars, and participate 
+in relevant online communities.
 
-## Gain Experience
+## Gain Experience and Build Your Portfolio
 Your portfolio includes not only your resume, but also your GitHb repos, YouTube videos, speaking engagements, 
 and blog posts. Consider internships, freelance projects, Meetup groups, or volunteer work to gain 
 practical experience and build your portfolio.
 
-## Networking
+### Networking
 Attend industry events, meetups, and conferences to network with professionals already working in the field. Networking can help you learn from others' experiences and potentially uncover job opportunities.
 
-## Continuous Learning
-Make learning a habit. Cloud computing is a dynamic field, and continuous learning is essential to stay relevant and advance your career.
+### Continuous Learning
+Make learning a habit. Cloud computing is a dynamic field, and continuous learning is essential to stay 
+relevant and advance your career.
 
 By following these steps and staying dedicated to your learning journey, you'll be well-equipped to land an entry-level job as a cloud support engineer.
