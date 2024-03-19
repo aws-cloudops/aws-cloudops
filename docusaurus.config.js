@@ -105,14 +105,15 @@ const config = {
                     {
                         docId: 'docs/introduction/instructorled',
                         to: 'docs/introduction/instructorled',
-                        label: 'Register Now!',
+                        label: 'Register Now',
                         position: 'right',
                     },
-                    // {
-                    //     href: 'https://github.com/dixonaws/aws-cloudops',
-                    //     label: 'GitHub',
-                    //     position: 'right',
-                    // },
+                    {
+                        docId: 'docs/introduction/getting-involved',
+                        to: 'docs/introduction/getting-involved',
+                        label: 'Get Involved!',
+                        position: 'right',
+                    },
                 ],
             },
             docs: {
