@@ -50,7 +50,9 @@ Learn to work effectively in a team environment, collaborating with colleagues t
 Cloud technology is rapidly evolving, so stay updated with the latest trends, best practices, and new services introduced by cloud providers. Follow industry blogs, attend webinars, and participate in relevant online communities.
 
 ## Gain Experience
-Consider internships, freelance projects, or volunteer work to gain practical experience and build your resume.
+Your portfolio includes not only your resume, but also your GitHb repos, YouTube videos, speaking engagements, 
+and blog posts. Consider internships, freelance projects, Meetup groups, or volunteer work to gain 
+practical experience and build your portfolio.
 
 ## Networking
 Attend industry events, meetups, and conferences to network with professionals already working in the field. Networking can help you learn from others' experiences and potentially uncover job opportunities.
