@@ -15,7 +15,7 @@ address each of these:
 ## Technical Skills
 ### Learn AWS
 Familiarize yourself with popular cloud platforms such as Amazon Web Services (AWS) -- understand 
-the core services (such as EC2), how the platform is structured, and how services are priced. See our [Learning Roadmap](http://localhost:3000/docs/getting_started/learning_roadmap)
+the core services (such as EC2), how the platform is structured, and how services are priced. See our [Learning Roadmap](https://www.aws-cloudops.com/docs/getting_started/learning_roadmap).
 * Fundamentals: Operating Systems, Storage, Networking: Understand basic networking concepts like IP addressing, routing, subnetting, and DNS.
 * Cloud Administration: AWS-specific skills
 * Scripting and Automation: Learn scripting languages like Python or PowerShell to automate tasks and manage cloud resources.
