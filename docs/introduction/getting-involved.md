@@ -5,7 +5,7 @@ sidebar_position: 4
 
 Interested to help with Silver Lining? Great! We have a place for you. 
 
-There are a few ways to contribute: as an Instructor, as a Content Producer, or as an Industry Speaker.  
+There are a few ways to contribute: as an Instructor, as a Content Producer, as a mentor, or as an Industry Speaker.  
 
 ## Instructors
 At the moment, Silver Lining Instructors are AWS Solutions Architects or customers of AWS. If you 
@@ -38,7 +38,7 @@ come from widely varying backgrounds, speakers may need to use more than one app
 topic.
 
 ## Mentors
-One of the most important roles in Silver Lining is mentoring students as they advnce through the program, giving
+One of the most important roles in Silver Lining is mentoring students as they advance through the program, giving
 feedback and helping to identify areas where they can dive deep. Feel free to Slack dixonaws for more information.
 
 ## FAQ
