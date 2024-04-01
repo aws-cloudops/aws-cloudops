@@ -21,7 +21,7 @@ AWS Silver Lining Program
 Completed the cloud engineering training program covering Linux administration, networking, storage, automation, monitoring and monitoring in AWS.
 
 
-Download the example resume of [John Dough](johndough.pdf).
+Download the example resume of [John Dough (PDF)](johndough.pdf).
 
 
 ![Example resume](johndough.png)
