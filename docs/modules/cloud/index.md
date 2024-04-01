@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Cloud Administration'
 sidebar_position: 3
-title: 'Cloud Administration Section'
+title: 'Cloud Administration'
 ---
 
 In this section:
